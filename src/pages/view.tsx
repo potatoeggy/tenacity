@@ -1,5 +1,6 @@
 import React from "react";
 import LoadingScreen from "../components/Loading";
+import LoadingDone from "../components/LoadingDone";
 import useAssemblyData from "../hooks/useAssemblyData";
 
 const View = () => {
@@ -33,7 +34,7 @@ const View = () => {
           <LoadingScreen />
         </div>
       )}
-      {data && <div>{JSON.stringify(data)}</div>}
+      {data && <LoadingDone />}
       {error && <div>error</div>}
       <style scoped></style>
     </div>
