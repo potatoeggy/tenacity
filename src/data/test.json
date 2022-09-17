@@ -1,0 +1,5397 @@
+{
+  "id": "o9ydzdntzn-9970-4636-bc08-ce65fb937446",
+  "language_model": "assemblyai_default",
+  "acoustic_model": "assemblyai_default",
+  "language_code": "en",
+  "status": "completed",
+  "audio_url": "https://cdn.assemblyai.com/upload/bf9742d2-c834-48cb-98fb-830b791c4ed4",
+  "text": "Welcome back to the two Generic Personalities talking to Each Other show with EBC very own George and Donald. Another day, another recording session. Darn right. The way they treat us is that we don't think we're real people. What are you going to on today's menu, George? Is there anything else aside from the new bill they just passed? Nothing but censorship, that bill is. Why the would you want the government getting their dirty pot all over Art? I thought you say that. Now, in case you didn't already know, the Canadian government recently passed a bill requiring all art for the public to be approved by an edit committee. One, but her politician pretends to be offended and suddenly everyone's in chains. You only hear about things like this from school boards with immature 17 year old children. Yes, and there's a lot of outrage going around. Uh, to be honest, Donald, I thought the bill was initially passed in good faith. Good faith? You'd have to be high while drugged in a Soviet interrogation if you still think that for sure. All around the country, citizens are protesting in cities now that no new art is permitted to be distributed or produced here without government approval. It's kind of impressive how much they bought this up. Literally everyone agrees that this is a terrible thing. Just wait till they call that art and then ran those protests to fucking Ethics Committee. It's censorship, I tell you. Censorship. What kind of ethical problems could you possibly have with art, of all things? You can call anything art. I'll eat my shoes isn't just another power grab. Um, incompetent dolls paid $100,000 a year to sit there poor. I think there is a reasonable way to approach this. The existing system was good enough. That law handles edics well for the most part. Nah, don't get me started on that pile of the law has its own problems with addicts. But you're right, the frozen turd pile doesn't stain anywhere as much as the fresh, steaming ones that just came out. And as long as you aren't like a sociopathic Lego brick stabs people to paint their walls with blood, you're good at my book. Hypothetically, what is they consent to? That's a positive. I suppose it's got to be informed consent, too. Say we're dealing with a five year old, they ain't going to know anything. But if a man is 90 years old, call it euthanasia. Yes, I agree completely. You do see people complaining about things less personal, too, like, um, attacking people's reputations. So m, what if people get offended if I tell the truth? Writing an angry song about the shriveled grapefruits in office? Why the flying would I need consent for that? Everyone and their Karen have been writing blogs like that for years. And guess what? No one cares. Everyone is perfectly fine. The Internet will crucify you if you try to do that. And it's rude to post it in public, but I wouldn't stop anyone from trying. How about animals? Where do you draw the line? If I see one person who lays a finger on a dog or cat or mouse and dares to hurt one mentally or physically I'll have you know I graduated top of my class in the Navy Seals, and I've been involved in numerous secret rates on Al Qaeda with over 300 confirmed hills. I am trained in guerrilla warfare and on the top sniper and the entire US. Armed forces. You are nothing to me but just another target I will wipe.",
+  "words": [
+    {
+      "text": "Welcome",
+      "start": 550,
+      "end": 786,
+      "confidence": 0.9981,
+      "speaker": null
+    },
+    {
+      "text": "back",
+      "start": 848,
+      "end": 1110,
+      "confidence": 0.99916,
+      "speaker": null
+    },
+    {
+      "text": "to",
+      "start": 1160,
+      "end": 1302,
+      "confidence": 1,
+      "speaker": null
+    },
+    {
+      "text": "the",
+      "start": 1316,
+      "end": 1422,
+      "confidence": 0.99,
+      "speaker": null
+    },
+    {
+      "text": "two",
+      "start": 1436,
+      "end": 1614,
+      "confidence": 0.99,
+      "speaker": null
+    },
+    {
+      "text": "Generic",
+      "start": 1652,
+      "end": 2038,
+      "confidence": 0.97071,
+      "speaker": null
+    },
+    {
+      "text": "Personalities",
+      "start": 2074,
+      "end": 2650,
+      "confidence": 0.98622,
+      "speaker": null
+    },
+    {
+      "text": "talking",
+      "start": 2710,
+      "end": 2934,
+      "confidence": 0.99517,
+      "speaker": null
+    },
+    {
+      "text": "to",
+      "start": 2972,
+      "end": 3102,
+      "confidence": 0.99,
+      "speaker": null
+    },
+    {
+      "text": "Each",
+      "start": 3116,
+      "end": 3258,
+      "confidence": 0.9953,
+      "speaker": null
+    },
+    {
+      "text": "Other",
+      "start": 3284,
+      "end": 3438,
+      "confidence": 0.99773,
+      "speaker": null
+    },
+    {
+      "text": "show",
+      "start": 3464,
+      "end": 3762,
+      "confidence": 0.70289,
+      "speaker": null
+    },
+    {
+      "text": "with",
+      "start": 3836,
+      "end": 4074,
+      "confidence": 0.8847,
+      "speaker": null
+    },
+    {
+      "text": "EBC",
+      "start": 4112,
+      "end": 4534,
+      "confidence": 0.54841,
+      "speaker": null
+    },
+    {
+      "text": "very",
+      "start": 4582,
+      "end": 4830,
+      "confidence": 0.97538,
+      "speaker": null
+    },
+    {
+      "text": "own",
+      "start": 4880,
+      "end": 5202,
+      "confidence": 0.98915,
+      "speaker": null
+    },
+    {
+      "text": "George",
+      "start": 5276,
+      "end": 5746,
+      "confidence": 0.81008,
+      "speaker": null
+    },
+    {
+      "text": "and",
+      "start": 5818,
+      "end": 6126,
+      "confidence": 0.99,
+      "speaker": null
+    },
+    {
+      "text": "Donald.",
+      "start": 6188,
+      "end": 6990,
+      "confidence": 0.83291,
+      "speaker": null
+    },
+    {
+      "text": "Another",
+      "start": 8270,
+      "end": 8706,
+      "confidence": 0.99747,
+      "speaker": null
+    },
+    {
+      "text": "day,",
+      "start": 8768,
+      "end": 9246,
+      "confidence": 1,
+      "speaker": null
+    },
+    {
+      "text": "another",
+      "start": 9368,
+      "end": 9762,
+      "confidence": 0.99829,
+      "speaker": null
+    },
+    {
+      "text": "recording",
+      "start": 9836,
+      "end": 10258,
+      "confidence": 0.98264,
+      "speaker": null
+    },
+    {
+      "text": "session.",
+      "start": 10294,
+      "end": 10882,
+      "confidence": 0.71449,
+      "speaker": null
+    },
+    {
+      "text": "Darn",
+      "start": 11026,
+      "end": 11458,
+      "confidence": 0.54817,
+      "speaker": null
+    },
+    {
+      "text": "right.",
+      "start": 11494,
+      "end": 11802,
+      "confidence": 1,
+      "speaker": null
+    },
+    {
+      "text": "The",
+      "start": 11876,
+      "end": 12078,
+      "confidence": 0.59,
+      "speaker": null
+    },
+    {
+      "text": "way",
+      "start": 12104,
+      "end": 12222,
+      "confidence": 0.99957,
+      "speaker": null
+    },
+    {
+      "text": "they",
+      "start": 12236,
+      "end": 12342,
+      "confidence": 0.99778,
+      "speaker": null
+    },
+    {
+      "text": "treat",
+      "start": 12356,
+      "end": 12534,
+      "confidence": 0.99985,
+      "speaker": null
+    },
+    {
+      "text": "us",
+      "start": 12572,
+      "end": 12702,
+      "confidence": 1,
+      "speaker": null
+    },
+    {
+      "text": "is",
+      "start": 12716,
+      "end": 12822,
+      "confidence": 0.61739,
+      "speaker": null
+    },
+    {
+      "text": "that",
+      "start": 12836,
+      "end": 12942,
+      "confidence": 0.0679,
+      "speaker": null
+    },
+    {
+      "text": "we",
+      "start": 12956,
+      "end": 13062,
+      "confidence": 0.83844,
+      "speaker": null
+    },
+    {
+      "text": "don't",
+      "start": 13076,
+      "end": 13246,
+      "confidence": 0.77193,
+      "speaker": null
+    },
+    {
+      "text": "think",
+      "start": 13258,
+      "end": 13398,
+      "confidence": 0.99938,
+      "speaker": null
+    },
+    {
+      "text": "we're",
+      "start": 13424,
+      "end": 13582,
+      "confidence": 0.9416,
+      "speaker": null
+    },
+    {
+      "text": "real",
+      "start": 13606,
+      "end": 13794,
+      "confidence": 1,
+      "speaker": null
+    },
+    {
+      "text": "people.",
+      "start": 13832,
+      "end": 14322,
+      "confidence": 0.99961,
+      "speaker": null
+    },
+    {
+      "text": "What",
+      "start": 14456,
+      "end": 14682,
+      "confidence": 0.87568,
+      "speaker": null
+    },
+    {
+      "text": "are",
+      "start": 14696,
+      "end": 14766,
+      "confidence": 0.33279,
+      "speaker": null
+    },
+    {
+      "text": "you",
+      "start": 14768,
+      "end": 14826,
+      "confidence": 0.98,
+      "speaker": null
+    },
+    {
+      "text": "going",
+      "start": 14828,
+      "end": 14922,
+      "confidence": 0.54087,
+      "speaker": null
+    },
+    {
+      "text": "to",
+      "start": 14936,
+      "end": 15006,
+      "confidence": 0.69,
+      "speaker": null
+    },
+    {
+      "text": "on",
+      "start": 15008,
+      "end": 15066,
+      "confidence": 0.62723,
+      "speaker": null
+    },
+    {
+      "text": "today's",
+      "start": 15068,
+      "end": 15322,
+      "confidence": 0.62718,
+      "speaker": null
+    },
+    {
+      "text": "menu,",
+      "start": 15346,
+      "end": 15562,
+      "confidence": 0.96424,
+      "speaker": null
+    },
+    {
+      "text": "George?",
+      "start": 15586,
+      "end": 16258,
+      "confidence": 0.79525,
+      "speaker": null
+    },
+    {
+      "text": "Is",
+      "start": 16414,
+      "end": 16662,
+      "confidence": 0.99847,
+      "speaker": null
+    },
+    {
+      "text": "there",
+      "start": 16676,
+      "end": 16782,
+      "confidence": 0.99831,
+      "speaker": null
+    },
+    {
+      "text": "anything",
+      "start": 16796,
+      "end": 17046,
+      "confidence": 0.99783,
+      "speaker": null
+    },
+    {
+      "text": "else",
+      "start": 17108,
+      "end": 17334,
+      "confidence": 0.99981,
+      "speaker": null
+    },
+    {
+      "text": "aside",
+      "start": 17372,
+      "end": 17638,
+      "confidence": 0.98393,
+      "speaker": null
+    },
+    {
+      "text": "from",
+      "start": 17674,
+      "end": 17838,
+      "confidence": 0.93907,
+      "speaker": null
+    },
+    {
+      "text": "the",
+      "start": 17864,
+      "end": 17982,
+      "confidence": 0.99,
+      "speaker": null
+    },
+    {
+      "text": "new",
+      "start": 17996,
+      "end": 18102,
+      "confidence": 1,
+      "speaker": null
+    },
+    {
+      "text": "bill",
+      "start": 18116,
+      "end": 18258,
+      "confidence": 0.86503,
+      "speaker": null
+    },
+    {
+      "text": "they",
+      "start": 18284,
+      "end": 18402,
+      "confidence": 0.84973,
+      "speaker": null
+    },
+    {
+      "text": "just",
+      "start": 18416,
+      "end": 18558,
+      "confidence": 0.99633,
+      "speaker": null
+    },
+    {
+      "text": "passed?",
+      "start": 18584,
+      "end": 19282,
+      "confidence": 0.71025,
+      "speaker": null
+    },
+    {
+      "text": "Nothing",
+      "start": 19426,
+      "end": 19842,
+      "confidence": 0.9672,
+      "speaker": null
+    },
+    {
+      "text": "but",
+      "start": 19916,
+      "end": 20334,
+      "confidence": 0.96333,
+      "speaker": null
+    },
+    {
+      "text": "censorship,",
+      "start": 20432,
+      "end": 21010,
+      "confidence": 0.45798,
+      "speaker": null
+    },
+    {
+      "text": "that",
+      "start": 21070,
+      "end": 21222,
+      "confidence": 0.9925,
+      "speaker": null
+    },
+    {
+      "text": "bill",
+      "start": 21236,
+      "end": 21414,
+      "confidence": 0.98842,
+      "speaker": null
+    },
+    {
+      "text": "is.",
+      "start": 21452,
+      "end": 21690,
+      "confidence": 0.98394,
+      "speaker": null
+    },
+    {
+      "text": "Why",
+      "start": 21740,
+      "end": 21882,
+      "confidence": 0.65021,
+      "speaker": null
+    },
+    {
+      "text": "the",
+      "start": 21896,
+      "end": 22146,
+      "confidence": 0.82,
+      "speaker": null
+    },
+    {
+      "text": "would",
+      "start": 22208,
+      "end": 22362,
+      "confidence": 0.7347,
+      "speaker": null
+    },
+    {
+      "text": "you",
+      "start": 22376,
+      "end": 22482,
+      "confidence": 1,
+      "speaker": null
+    },
+    {
+      "text": "want",
+      "start": 22496,
+      "end": 22602,
+      "confidence": 0.99953,
+      "speaker": null
+    },
+    {
+      "text": "the",
+      "start": 22616,
+      "end": 22758,
+      "confidence": 0.97,
+      "speaker": null
+    },
+    {
+      "text": "government",
+      "start": 22784,
+      "end": 23082,
+      "confidence": 0.99993,
+      "speaker": null
+    },
+    {
+      "text": "getting",
+      "start": 23156,
+      "end": 23394,
+      "confidence": 0.99971,
+      "speaker": null
+    },
+    {
+      "text": "their",
+      "start": 23432,
+      "end": 23598,
+      "confidence": 0.98146,
+      "speaker": null
+    },
+    {
+      "text": "dirty",
+      "start": 23624,
+      "end": 23878,
+      "confidence": 0.99937,
+      "speaker": null
+    },
+    {
+      "text": "pot",
+      "start": 23914,
+      "end": 24186,
+      "confidence": 0.36435,
+      "speaker": null
+    },
+    {
+      "text": "all",
+      "start": 24248,
+      "end": 24402,
+      "confidence": 0.98424,
+      "speaker": null
+    },
+    {
+      "text": "over",
+      "start": 24416,
+      "end": 24810,
+      "confidence": 0.98036,
+      "speaker": null
+    },
+    {
+      "text": "Art?",
+      "start": 24920,
+      "end": 25580,
+      "confidence": 0.87642,
+      "speaker": null
+    },
+    {
+      "text": "I",
+      "start": 26390,
+      "end": 26718,
+      "confidence": 0.92,
+      "speaker": null
+    },
+    {
+      "text": "thought",
+      "start": 26744,
+      "end": 26898,
+      "confidence": 0.99829,
+      "speaker": null
+    },
+    {
+      "text": "you",
+      "start": 26924,
+      "end": 27042,
+      "confidence": 1,
+      "speaker": null
+    },
+    {
+      "text": "say",
+      "start": 27056,
+      "end": 27198,
+      "confidence": 0.49246,
+      "speaker": null
+    },
+    {
+      "text": "that.",
+      "start": 27224,
+      "end": 27702,
+      "confidence": 0.99794,
+      "speaker": null
+    },
+    {
+      "text": "Now,",
+      "start": 27836,
+      "end": 28134,
+      "confidence": 0.88783,
+      "speaker": null
+    },
+    {
+      "text": "in",
+      "start": 28172,
+      "end": 28302,
+      "confidence": 0.99158,
+      "speaker": null
+    },
+    {
+      "text": "case",
+      "start": 28316,
+      "end": 28458,
+      "confidence": 0.99911,
+      "speaker": null
+    },
+    {
+      "text": "you",
+      "start": 28484,
+      "end": 28602,
+      "confidence": 0.74,
+      "speaker": null
+    },
+    {
+      "text": "didn't",
+      "start": 28616,
+      "end": 28858,
+      "confidence": 0.84811,
+      "speaker": null
+    },
+    {
+      "text": "already",
+      "start": 28894,
+      "end": 29130,
+      "confidence": 0.99856,
+      "speaker": null
+    },
+    {
+      "text": "know,",
+      "start": 29180,
+      "end": 29718,
+      "confidence": 0.99988,
+      "speaker": null
+    },
+    {
+      "text": "the",
+      "start": 29864,
+      "end": 30174,
+      "confidence": 0.95,
+      "speaker": null
+    },
+    {
+      "text": "Canadian",
+      "start": 30212,
+      "end": 30538,
+      "confidence": 0.97,
+      "speaker": null
+    },
+    {
+      "text": "government",
+      "start": 30574,
+      "end": 30882,
+      "confidence": 0.99989,
+      "speaker": null
+    },
+    {
+      "text": "recently",
+      "start": 30956,
+      "end": 31282,
+      "confidence": 0.99953,
+      "speaker": null
+    },
+    {
+      "text": "passed",
+      "start": 31306,
+      "end": 31546,
+      "confidence": 0.89261,
+      "speaker": null
+    },
+    {
+      "text": "a",
+      "start": 31558,
+      "end": 31662,
+      "confidence": 0.59,
+      "speaker": null
+    },
+    {
+      "text": "bill",
+      "start": 31676,
+      "end": 31818,
+      "confidence": 0.99729,
+      "speaker": null
+    },
+    {
+      "text": "requiring",
+      "start": 31844,
+      "end": 32314,
+      "confidence": 0.91192,
+      "speaker": null
+    },
+    {
+      "text": "all",
+      "start": 32362,
+      "end": 32574,
+      "confidence": 0.9991,
+      "speaker": null
+    },
+    {
+      "text": "art",
+      "start": 32612,
+      "end": 32958,
+      "confidence": 0.92671,
+      "speaker": null
+    },
+    {
+      "text": "for",
+      "start": 33044,
+      "end": 33222,
+      "confidence": 0.98337,
+      "speaker": null
+    },
+    {
+      "text": "the",
+      "start": 33236,
+      "end": 33342,
+      "confidence": 0.99,
+      "speaker": null
+    },
+    {
+      "text": "public",
+      "start": 33356,
+      "end": 33570,
+      "confidence": 0.57782,
+      "speaker": null
+    },
+    {
+      "text": "to",
+      "start": 33620,
+      "end": 33762,
+      "confidence": 0.89,
+      "speaker": null
+    },
+    {
+      "text": "be",
+      "start": 33776,
+      "end": 33882,
+      "confidence": 0.99281,
+      "speaker": null
+    },
+    {
+      "text": "approved",
+      "start": 33896,
+      "end": 34162,
+      "confidence": 0.99134,
+      "speaker": null
+    },
+    {
+      "text": "by",
+      "start": 34186,
+      "end": 34302,
+      "confidence": 0.68783,
+      "speaker": null
+    },
+    {
+      "text": "an",
+      "start": 34316,
+      "end": 34422,
+      "confidence": 0.33627,
+      "speaker": null
+    },
+    {
+      "text": "edit",
+      "start": 34436,
+      "end": 34678,
+      "confidence": 0.23472,
+      "speaker": null
+    },
+    {
+      "text": "committee.",
+      "start": 34714,
+      "end": 35430,
+      "confidence": 0.77807,
+      "speaker": null
+    },
+    {
+      "text": "One,",
+      "start": 35870,
+      "end": 36234,
+      "confidence": 1,
+      "speaker": null
+    },
+    {
+      "text": "but",
+      "start": 36272,
+      "end": 36438,
+      "confidence": 0.99328,
+      "speaker": null
+    },
+    {
+      "text": "her",
+      "start": 36464,
+      "end": 36618,
+      "confidence": 0.99441,
+      "speaker": null
+    },
+    {
+      "text": "politician",
+      "start": 36644,
+      "end": 37186,
+      "confidence": 0.99958,
+      "speaker": null
+    },
+    {
+      "text": "pretends",
+      "start": 37258,
+      "end": 37702,
+      "confidence": 0.9968,
+      "speaker": null
+    },
+    {
+      "text": "to",
+      "start": 37726,
+      "end": 37842,
+      "confidence": 0.99,
+      "speaker": null
+    },
+    {
+      "text": "be",
+      "start": 37856,
+      "end": 37962,
+      "confidence": 0.9977,
+      "speaker": null
+    },
+    {
+      "text": "offended",
+      "start": 37976,
+      "end": 38374,
+      "confidence": 0.99899,
+      "speaker": null
+    },
+    {
+      "text": "and",
+      "start": 38422,
+      "end": 38598,
+      "confidence": 0.98,
+      "speaker": null
+    },
+    {
+      "text": "suddenly",
+      "start": 38624,
+      "end": 39070,
+      "confidence": 0.44995,
+      "speaker": null
+    },
+    {
+      "text": "everyone's",
+      "start": 39130,
+      "end": 39598,
+      "confidence": 0.66167,
+      "speaker": null
+    },
+    {
+      "text": "in",
+      "start": 39634,
+      "end": 39726,
+      "confidence": 0.97057,
+      "speaker": null
+    },
+    {
+      "text": "chains.",
+      "start": 39728,
+      "end": 40186,
+      "confidence": 0.40012,
+      "speaker": null
+    },
+    {
+      "text": "You",
+      "start": 40258,
+      "end": 40458,
+      "confidence": 1,
+      "speaker": null
+    },
+    {
+      "text": "only",
+      "start": 40484,
+      "end": 40674,
+      "confidence": 0.99776,
+      "speaker": null
+    },
+    {
+      "text": "hear",
+      "start": 40712,
+      "end": 40878,
+      "confidence": 0.99872,
+      "speaker": null
+    },
+    {
+      "text": "about",
+      "start": 40904,
+      "end": 41058,
+      "confidence": 0.99891,
+      "speaker": null
+    },
+    {
+      "text": "things",
+      "start": 41084,
+      "end": 41238,
+      "confidence": 0.99973,
+      "speaker": null
+    },
+    {
+      "text": "like",
+      "start": 41264,
+      "end": 41382,
+      "confidence": 0.99926,
+      "speaker": null
+    },
+    {
+      "text": "this",
+      "start": 41396,
+      "end": 41610,
+      "confidence": 0.82911,
+      "speaker": null
+    },
+    {
+      "text": "from",
+      "start": 41660,
+      "end": 41838,
+      "confidence": 0.99869,
+      "speaker": null
+    },
+    {
+      "text": "school",
+      "start": 41864,
+      "end": 42054,
+      "confidence": 0.99928,
+      "speaker": null
+    },
+    {
+      "text": "boards",
+      "start": 42092,
+      "end": 42418,
+      "confidence": 0.87082,
+      "speaker": null
+    },
+    {
+      "text": "with",
+      "start": 42454,
+      "end": 42654,
+      "confidence": 0.90854,
+      "speaker": null
+    },
+    {
+      "text": "immature",
+      "start": 42692,
+      "end": 43138,
+      "confidence": 0.5163,
+      "speaker": null
+    },
+    {
+      "text": "17",
+      "start": 43234,
+      "end": 43654,
+      "confidence": 0.97,
+      "speaker": null
+    },
+    {
+      "text": "year",
+      "start": 43702,
+      "end": 43842,
+      "confidence": 0.99756,
+      "speaker": null
+    },
+    {
+      "text": "old",
+      "start": 43856,
+      "end": 44070,
+      "confidence": 0.99507,
+      "speaker": null
+    },
+    {
+      "text": "children.",
+      "start": 44120,
+      "end": 44730,
+      "confidence": 0.9999,
+      "speaker": null
+    },
+    {
+      "text": "Yes,",
+      "start": 44900,
+      "end": 45342,
+      "confidence": 0.49793,
+      "speaker": null
+    },
+    {
+      "text": "and",
+      "start": 45416,
+      "end": 45582,
+      "confidence": 0.9,
+      "speaker": null
+    },
+    {
+      "text": "there's",
+      "start": 45596,
+      "end": 45802,
+      "confidence": 0.82298,
+      "speaker": null
+    },
+    {
+      "text": "a",
+      "start": 45826,
+      "end": 45942,
+      "confidence": 0.98,
+      "speaker": null
+    },
+    {
+      "text": "lot",
+      "start": 45956,
+      "end": 46098,
+      "confidence": 0.99968,
+      "speaker": null
+    },
+    {
+      "text": "of",
+      "start": 46124,
+      "end": 46242,
+      "confidence": 1,
+      "speaker": null
+    },
+    {
+      "text": "outrage",
+      "start": 46256,
+      "end": 46558,
+      "confidence": 0.81426,
+      "speaker": null
+    },
+    {
+      "text": "going",
+      "start": 46594,
+      "end": 46794,
+      "confidence": 0.94546,
+      "speaker": null
+    },
+    {
+      "text": "around.",
+      "start": 46832,
+      "end": 47322,
+      "confidence": 0.96107,
+      "speaker": null
+    },
+    {
+      "text": "Uh,",
+      "start": 47322,
+      "end": 47456,
+      "confidence": 0.9679970741271973,
+      "speaker": null
+    },
+    {
+      "text": "to",
+      "start": 47456,
+      "end": 47718,
+      "confidence": 0.99,
+      "speaker": null
+    },
+    {
+      "text": "be",
+      "start": 47744,
+      "end": 47862,
+      "confidence": 0.99959,
+      "speaker": null
+    },
+    {
+      "text": "honest,",
+      "start": 47876,
+      "end": 48090,
+      "confidence": 0.99997,
+      "speaker": null
+    },
+    {
+      "text": "Donald,",
+      "start": 48140,
+      "end": 48454,
+      "confidence": 0.66773,
+      "speaker": null
+    },
+    {
+      "text": "I",
+      "start": 48502,
+      "end": 48678,
+      "confidence": 1,
+      "speaker": null
+    },
+    {
+      "text": "thought",
+      "start": 48704,
+      "end": 48822,
+      "confidence": 0.99312,
+      "speaker": null
+    },
+    {
+      "text": "the",
+      "start": 48836,
+      "end": 48942,
+      "confidence": 0.97,
+      "speaker": null
+    },
+    {
+      "text": "bill",
+      "start": 48956,
+      "end": 49098,
+      "confidence": 0.99079,
+      "speaker": null
+    },
+    {
+      "text": "was",
+      "start": 49124,
+      "end": 49242,
+      "confidence": 0.9939,
+      "speaker": null
+    },
+    {
+      "text": "initially",
+      "start": 49256,
+      "end": 49534,
+      "confidence": 0.43707,
+      "speaker": null
+    },
+    {
+      "text": "passed",
+      "start": 49582,
+      "end": 49786,
+      "confidence": 0.45176,
+      "speaker": null
+    },
+    {
+      "text": "in",
+      "start": 49798,
+      "end": 49902,
+      "confidence": 0.77176,
+      "speaker": null
+    },
+    {
+      "text": "good",
+      "start": 49916,
+      "end": 50058,
+      "confidence": 0.99061,
+      "speaker": null
+    },
+    {
+      "text": "faith.",
+      "start": 50084,
+      "end": 50670,
+      "confidence": 0.7354,
+      "speaker": null
+    },
+    {
+      "text": "Good",
+      "start": 50990,
+      "end": 51390,
+      "confidence": 0.99666,
+      "speaker": null
+    },
+    {
+      "text": "faith?",
+      "start": 51440,
+      "end": 51898,
+      "confidence": 0.47774,
+      "speaker": null
+    },
+    {
+      "text": "You'd",
+      "start": 51994,
+      "end": 52342,
+      "confidence": 0.46241,
+      "speaker": null
+    },
+    {
+      "text": "have",
+      "start": 52366,
+      "end": 52482,
+      "confidence": 0.9994,
+      "speaker": null
+    },
+    {
+      "text": "to",
+      "start": 52496,
+      "end": 52602,
+      "confidence": 0.99,
+      "speaker": null
+    },
+    {
+      "text": "be",
+      "start": 52616,
+      "end": 52794,
+      "confidence": 0.99803,
+      "speaker": null
+    },
+    {
+      "text": "high",
+      "start": 52832,
+      "end": 53106,
+      "confidence": 0.99384,
+      "speaker": null
+    },
+    {
+      "text": "while",
+      "start": 53168,
+      "end": 53394,
+      "confidence": 0.99606,
+      "speaker": null
+    },
+    {
+      "text": "drugged",
+      "start": 53432,
+      "end": 53782,
+      "confidence": 0.97155,
+      "speaker": null
+    },
+    {
+      "text": "in",
+      "start": 53806,
+      "end": 53922,
+      "confidence": 0.98776,
+      "speaker": null
+    },
+    {
+      "text": "a",
+      "start": 53936,
+      "end": 54042,
+      "confidence": 0.62,
+      "speaker": null
+    },
+    {
+      "text": "Soviet",
+      "start": 54056,
+      "end": 54382,
+      "confidence": 0.9988,
+      "speaker": null
+    },
+    {
+      "text": "interrogation",
+      "start": 54406,
+      "end": 55210,
+      "confidence": 0.99566,
+      "speaker": null
+    },
+    {
+      "text": "if",
+      "start": 55330,
+      "end": 55542,
+      "confidence": 0.99201,
+      "speaker": null
+    },
+    {
+      "text": "you",
+      "start": 55556,
+      "end": 55662,
+      "confidence": 1,
+      "speaker": null
+    },
+    {
+      "text": "still",
+      "start": 55676,
+      "end": 55818,
+      "confidence": 0.9962,
+      "speaker": null
+    },
+    {
+      "text": "think",
+      "start": 55844,
+      "end": 56034,
+      "confidence": 0.95676,
+      "speaker": null
+    },
+    {
+      "text": "that",
+      "start": 56072,
+      "end": 56706,
+      "confidence": 0.98627,
+      "speaker": null
+    },
+    {
+      "text": "for",
+      "start": 56888,
+      "end": 57198,
+      "confidence": 0.99726,
+      "speaker": null
+    },
+    {
+      "text": "sure.",
+      "start": 57224,
+      "end": 57666,
+      "confidence": 0.99979,
+      "speaker": null
+    },
+    {
+      "text": "All",
+      "start": 57788,
+      "end": 58038,
+      "confidence": 0.99962,
+      "speaker": null
+    },
+    {
+      "text": "around",
+      "start": 58064,
+      "end": 58254,
+      "confidence": 0.99863,
+      "speaker": null
+    },
+    {
+      "text": "the",
+      "start": 58292,
+      "end": 58422,
+      "confidence": 1,
+      "speaker": null
+    },
+    {
+      "text": "country,",
+      "start": 58436,
+      "end": 58722,
+      "confidence": 0.9999,
+      "speaker": null
+    },
+    {
+      "text": "citizens",
+      "start": 58796,
+      "end": 59242,
+      "confidence": 0.69902,
+      "speaker": null
+    },
+    {
+      "text": "are",
+      "start": 59266,
+      "end": 59382,
+      "confidence": 0.99553,
+      "speaker": null
+    },
+    {
+      "text": "protesting",
+      "start": 59396,
+      "end": 59782,
+      "confidence": 0.9964,
+      "speaker": null
+    },
+    {
+      "text": "in",
+      "start": 59806,
+      "end": 59958,
+      "confidence": 0.97387,
+      "speaker": null
+    },
+    {
+      "text": "cities",
+      "start": 59984,
+      "end": 60322,
+      "confidence": 0.94196,
+      "speaker": null
+    },
+    {
+      "text": "now",
+      "start": 60406,
+      "end": 60582,
+      "confidence": 0.93815,
+      "speaker": null
+    },
+    {
+      "text": "that",
+      "start": 60596,
+      "end": 60774,
+      "confidence": 0.70367,
+      "speaker": null
+    },
+    {
+      "text": "no",
+      "start": 60812,
+      "end": 60978,
+      "confidence": 0.99889,
+      "speaker": null
+    },
+    {
+      "text": "new",
+      "start": 61004,
+      "end": 61158,
+      "confidence": 1,
+      "speaker": null
+    },
+    {
+      "text": "art",
+      "start": 61184,
+      "end": 61338,
+      "confidence": 0.9973,
+      "speaker": null
+    },
+    {
+      "text": "is",
+      "start": 61364,
+      "end": 61518,
+      "confidence": 0.9845,
+      "speaker": null
+    },
+    {
+      "text": "permitted",
+      "start": 61544,
+      "end": 61846,
+      "confidence": 0.99379,
+      "speaker": null
+    },
+    {
+      "text": "to",
+      "start": 61858,
+      "end": 61962,
+      "confidence": 1,
+      "speaker": null
+    },
+    {
+      "text": "be",
+      "start": 61976,
+      "end": 62118,
+      "confidence": 0.99316,
+      "speaker": null
+    },
+    {
+      "text": "distributed",
+      "start": 62144,
+      "end": 62638,
+      "confidence": 0.99905,
+      "speaker": null
+    },
+    {
+      "text": "or",
+      "start": 62674,
+      "end": 62838,
+      "confidence": 0.99722,
+      "speaker": null
+    },
+    {
+      "text": "produced",
+      "start": 62864,
+      "end": 63082,
+      "confidence": 0.97704,
+      "speaker": null
+    },
+    {
+      "text": "here",
+      "start": 63106,
+      "end": 63258,
+      "confidence": 0.97093,
+      "speaker": null
+    },
+    {
+      "text": "without",
+      "start": 63284,
+      "end": 63474,
+      "confidence": 0.99947,
+      "speaker": null
+    },
+    {
+      "text": "government",
+      "start": 63512,
+      "end": 63822,
+      "confidence": 0.99742,
+      "speaker": null
+    },
+    {
+      "text": "approval.",
+      "start": 63896,
+      "end": 64522,
+      "confidence": 0.99677,
+      "speaker": null
+    },
+    {
+      "text": "It's",
+      "start": 64606,
+      "end": 64882,
+      "confidence": 0.96572,
+      "speaker": null
+    },
+    {
+      "text": "kind",
+      "start": 64906,
+      "end": 64986,
+      "confidence": 0.90865,
+      "speaker": null
+    },
+    {
+      "text": "of",
+      "start": 64988,
+      "end": 65082,
+      "confidence": 0.85,
+      "speaker": null
+    },
+    {
+      "text": "impressive",
+      "start": 65096,
+      "end": 65662,
+      "confidence": 0.8604,
+      "speaker": null
+    },
+    {
+      "text": "how",
+      "start": 65746,
+      "end": 65922,
+      "confidence": 0.99965,
+      "speaker": null
+    },
+    {
+      "text": "much",
+      "start": 65936,
+      "end": 66078,
+      "confidence": 0.74222,
+      "speaker": null
+    },
+    {
+      "text": "they",
+      "start": 66104,
+      "end": 66258,
+      "confidence": 0.99313,
+      "speaker": null
+    },
+    {
+      "text": "bought",
+      "start": 66284,
+      "end": 66478,
+      "confidence": 0.55077,
+      "speaker": null
+    },
+    {
+      "text": "this",
+      "start": 66514,
+      "end": 66678,
+      "confidence": 0.96288,
+      "speaker": null
+    },
+    {
+      "text": "up.",
+      "start": 66704,
+      "end": 67218,
+      "confidence": 0.81016,
+      "speaker": null
+    },
+    {
+      "text": "Literally",
+      "start": 67364,
+      "end": 67918,
+      "confidence": 0.98287,
+      "speaker": null
+    },
+    {
+      "text": "everyone",
+      "start": 68014,
+      "end": 68598,
+      "confidence": 0.99688,
+      "speaker": null
+    },
+    {
+      "text": "agrees",
+      "start": 68744,
+      "end": 69142,
+      "confidence": 0.54277,
+      "speaker": null
+    },
+    {
+      "text": "that",
+      "start": 69166,
+      "end": 69318,
+      "confidence": 0.55464,
+      "speaker": null
+    },
+    {
+      "text": "this",
+      "start": 69344,
+      "end": 69462,
+      "confidence": 0.98796,
+      "speaker": null
+    },
+    {
+      "text": "is",
+      "start": 69476,
+      "end": 69582,
+      "confidence": 0.98526,
+      "speaker": null
+    },
+    {
+      "text": "a",
+      "start": 69596,
+      "end": 69666,
+      "confidence": 0.97,
+      "speaker": null
+    },
+    {
+      "text": "terrible",
+      "start": 69668,
+      "end": 69958,
+      "confidence": 0.47375,
+      "speaker": null
+    },
+    {
+      "text": "thing.",
+      "start": 69994,
+      "end": 70580,
+      "confidence": 0.87501,
+      "speaker": null
+    },
+    {
+      "text": "Just",
+      "start": 71390,
+      "end": 71790,
+      "confidence": 0.99554,
+      "speaker": null
+    },
+    {
+      "text": "wait",
+      "start": 71840,
+      "end": 72126,
+      "confidence": 0.99997,
+      "speaker": null
+    },
+    {
+      "text": "till",
+      "start": 72188,
+      "end": 72382,
+      "confidence": 0.52112,
+      "speaker": null
+    },
+    {
+      "text": "they",
+      "start": 72406,
+      "end": 72558,
+      "confidence": 0.99661,
+      "speaker": null
+    },
+    {
+      "text": "call",
+      "start": 72584,
+      "end": 72738,
+      "confidence": 0.98284,
+      "speaker": null
+    },
+    {
+      "text": "that",
+      "start": 72764,
+      "end": 73098,
+      "confidence": 0.97958,
+      "speaker": null
+    },
+    {
+      "text": "art",
+      "start": 73184,
+      "end": 73686,
+      "confidence": 0.69415,
+      "speaker": null
+    },
+    {
+      "text": "and",
+      "start": 73808,
+      "end": 74058,
+      "confidence": 0.99,
+      "speaker": null
+    },
+    {
+      "text": "then",
+      "start": 74084,
+      "end": 74238,
+      "confidence": 0.99014,
+      "speaker": null
+    },
+    {
+      "text": "ran",
+      "start": 74264,
+      "end": 74458,
+      "confidence": 0.84827,
+      "speaker": null
+    },
+    {
+      "text": "those",
+      "start": 74494,
+      "end": 74694,
+      "confidence": 0.99849,
+      "speaker": null
+    },
+    {
+      "text": "protests",
+      "start": 74732,
+      "end": 75118,
+      "confidence": 0.60066,
+      "speaker": null
+    },
+    {
+      "text": "to",
+      "start": 75154,
+      "end": 75354,
+      "confidence": 0.53,
+      "speaker": null
+    },
+    {
+      "text": "fucking",
+      "start": 75392,
+      "end": 75718,
+      "confidence": 0.78902,
+      "speaker": null
+    },
+    {
+      "text": "Ethics",
+      "start": 75754,
+      "end": 76054,
+      "confidence": 0.85571,
+      "speaker": null
+    },
+    {
+      "text": "Committee.",
+      "start": 76102,
+      "end": 76642,
+      "confidence": 0.98893,
+      "speaker": null
+    },
+    {
+      "text": "It's",
+      "start": 76726,
+      "end": 77038,
+      "confidence": 0.90131,
+      "speaker": null
+    },
+    {
+      "text": "censorship,",
+      "start": 77074,
+      "end": 77494,
+      "confidence": 0.93447,
+      "speaker": null
+    },
+    {
+      "text": "I",
+      "start": 77542,
+      "end": 77718,
+      "confidence": 1,
+      "speaker": null
+    },
+    {
+      "text": "tell",
+      "start": 77744,
+      "end": 77862,
+      "confidence": 0.98638,
+      "speaker": null
+    },
+    {
+      "text": "you.",
+      "start": 77876,
+      "end": 78306,
+      "confidence": 0.93,
+      "speaker": null
+    },
+    {
+      "text": "Censorship.",
+      "start": 78428,
+      "end": 79350,
+      "confidence": 0.80436,
+      "speaker": null
+    },
+    {
+      "text": "What",
+      "start": 79850,
+      "end": 80214,
+      "confidence": 0.99961,
+      "speaker": null
+    },
+    {
+      "text": "kind",
+      "start": 80252,
+      "end": 80382,
+      "confidence": 0.99907,
+      "speaker": null
+    },
+    {
+      "text": "of",
+      "start": 80396,
+      "end": 80682,
+      "confidence": 0.5,
+      "speaker": null
+    },
+    {
+      "text": "ethical",
+      "start": 80756,
+      "end": 81238,
+      "confidence": 0.98752,
+      "speaker": null
+    },
+    {
+      "text": "problems",
+      "start": 81334,
+      "end": 81738,
+      "confidence": 0.99728,
+      "speaker": null
+    },
+    {
+      "text": "could",
+      "start": 81824,
+      "end": 82038,
+      "confidence": 0.99822,
+      "speaker": null
+    },
+    {
+      "text": "you",
+      "start": 82064,
+      "end": 82218,
+      "confidence": 1,
+      "speaker": null
+    },
+    {
+      "text": "possibly",
+      "start": 82244,
+      "end": 82630,
+      "confidence": 0.97594,
+      "speaker": null
+    },
+    {
+      "text": "have",
+      "start": 82690,
+      "end": 82986,
+      "confidence": 0.9989,
+      "speaker": null
+    },
+    {
+      "text": "with",
+      "start": 83048,
+      "end": 83346,
+      "confidence": 0.99103,
+      "speaker": null
+    },
+    {
+      "text": "art,",
+      "start": 83408,
+      "end": 83706,
+      "confidence": 0.99587,
+      "speaker": null
+    },
+    {
+      "text": "of",
+      "start": 83768,
+      "end": 83922,
+      "confidence": 0.99,
+      "speaker": null
+    },
+    {
+      "text": "all",
+      "start": 83936,
+      "end": 84078,
+      "confidence": 0.99894,
+      "speaker": null
+    },
+    {
+      "text": "things?",
+      "start": 84104,
+      "end": 84474,
+      "confidence": 0.99892,
+      "speaker": null
+    },
+    {
+      "text": "You",
+      "start": 84572,
+      "end": 84762,
+      "confidence": 1,
+      "speaker": null
+    },
+    {
+      "text": "can",
+      "start": 84776,
+      "end": 84882,
+      "confidence": 0.9983,
+      "speaker": null
+    },
+    {
+      "text": "call",
+      "start": 84896,
+      "end": 85110,
+      "confidence": 0.99911,
+      "speaker": null
+    },
+    {
+      "text": "anything",
+      "start": 85160,
+      "end": 85482,
+      "confidence": 0.99926,
+      "speaker": null
+    },
+    {
+      "text": "art.",
+      "start": 85556,
+      "end": 85974,
+      "confidence": 0.99492,
+      "speaker": null
+    },
+    {
+      "text": "I'll",
+      "start": 86072,
+      "end": 86326,
+      "confidence": 0.86862,
+      "speaker": null
+    },
+    {
+      "text": "eat",
+      "start": 86338,
+      "end": 86478,
+      "confidence": 0.99813,
+      "speaker": null
+    },
+    {
+      "text": "my",
+      "start": 86504,
+      "end": 86658,
+      "confidence": 0.99911,
+      "speaker": null
+    },
+    {
+      "text": "shoes",
+      "start": 86684,
+      "end": 86974,
+      "confidence": 0.58667,
+      "speaker": null
+    },
+    {
+      "text": "isn't",
+      "start": 87022,
+      "end": 87334,
+      "confidence": 0.77377,
+      "speaker": null
+    },
+    {
+      "text": "just",
+      "start": 87382,
+      "end": 87558,
+      "confidence": 0.99757,
+      "speaker": null
+    },
+    {
+      "text": "another",
+      "start": 87584,
+      "end": 87846,
+      "confidence": 0.99975,
+      "speaker": null
+    },
+    {
+      "text": "power",
+      "start": 87908,
+      "end": 88134,
+      "confidence": 0.99873,
+      "speaker": null
+    },
+    {
+      "text": "grab.",
+      "start": 88172,
+      "end": 88966,
+      "confidence": 0.86763,
+      "speaker": null
+    },
+    {
+      "text": "Um,",
+      "start": 89060,
+      "end": 89158,
+      "confidence": 0.7803537845611572,
+      "speaker": null
+    },
+    {
+      "text": "incompetent",
+      "start": 89158,
+      "end": 90094,
+      "confidence": 0.42961,
+      "speaker": null
+    },
+    {
+      "text": "dolls",
+      "start": 90142,
+      "end": 91006,
+      "confidence": 0.57689,
+      "speaker": null
+    },
+    {
+      "text": "paid",
+      "start": 91198,
+      "end": 91554,
+      "confidence": 0.42125,
+      "speaker": null
+    },
+    {
+      "text": "$100,000",
+      "start": 91592,
+      "end": 92658,
+      "confidence": 0.78,
+      "speaker": null
+    },
+    {
+      "text": "a",
+      "start": 92684,
+      "end": 92802,
+      "confidence": 0.96,
+      "speaker": null
+    },
+    {
+      "text": "year",
+      "start": 92816,
+      "end": 92958,
+      "confidence": 0.9998,
+      "speaker": null
+    },
+    {
+      "text": "to",
+      "start": 92984,
+      "end": 93102,
+      "confidence": 0.95,
+      "speaker": null
+    },
+    {
+      "text": "sit",
+      "start": 93116,
+      "end": 93294,
+      "confidence": 0.99756,
+      "speaker": null
+    },
+    {
+      "text": "there",
+      "start": 93332,
+      "end": 93822,
+      "confidence": 0.99711,
+      "speaker": null
+    },
+    {
+      "text": "poor.",
+      "start": 93956,
+      "end": 94642,
+      "confidence": 0.27816,
+      "speaker": null
+    },
+    {
+      "text": "I",
+      "start": 94786,
+      "end": 95058,
+      "confidence": 1,
+      "speaker": null
+    },
+    {
+      "text": "think",
+      "start": 95084,
+      "end": 95202,
+      "confidence": 0.9999,
+      "speaker": null
+    },
+    {
+      "text": "there",
+      "start": 95216,
+      "end": 95322,
+      "confidence": 0.9953,
+      "speaker": null
+    },
+    {
+      "text": "is",
+      "start": 95336,
+      "end": 95478,
+      "confidence": 0.89966,
+      "speaker": null
+    },
+    {
+      "text": "a",
+      "start": 95504,
+      "end": 95586,
+      "confidence": 0.99,
+      "speaker": null
+    },
+    {
+      "text": "reasonable",
+      "start": 95588,
+      "end": 95974,
+      "confidence": 0.92757,
+      "speaker": null
+    },
+    {
+      "text": "way",
+      "start": 96022,
+      "end": 96162,
+      "confidence": 0.99948,
+      "speaker": null
+    },
+    {
+      "text": "to",
+      "start": 96176,
+      "end": 96318,
+      "confidence": 1,
+      "speaker": null
+    },
+    {
+      "text": "approach",
+      "start": 96344,
+      "end": 96598,
+      "confidence": 0.89201,
+      "speaker": null
+    },
+    {
+      "text": "this.",
+      "start": 96634,
+      "end": 97194,
+      "confidence": 0.75672,
+      "speaker": null
+    },
+    {
+      "text": "The",
+      "start": 97352,
+      "end": 97566,
+      "confidence": 0.96,
+      "speaker": null
+    },
+    {
+      "text": "existing",
+      "start": 97568,
+      "end": 97918,
+      "confidence": 0.71783,
+      "speaker": null
+    },
+    {
+      "text": "system",
+      "start": 97954,
+      "end": 98154,
+      "confidence": 0.99992,
+      "speaker": null
+    },
+    {
+      "text": "was",
+      "start": 98192,
+      "end": 98322,
+      "confidence": 0.88502,
+      "speaker": null
+    },
+    {
+      "text": "good",
+      "start": 98336,
+      "end": 98442,
+      "confidence": 0.97615,
+      "speaker": null
+    },
+    {
+      "text": "enough.",
+      "start": 98456,
+      "end": 99102,
+      "confidence": 0.78722,
+      "speaker": null
+    },
+    {
+      "text": "That",
+      "start": 99296,
+      "end": 99654,
+      "confidence": 0.85041,
+      "speaker": null
+    },
+    {
+      "text": "law",
+      "start": 99692,
+      "end": 99894,
+      "confidence": 0.99682,
+      "speaker": null
+    },
+    {
+      "text": "handles",
+      "start": 99932,
+      "end": 100270,
+      "confidence": 0.9837,
+      "speaker": null
+    },
+    {
+      "text": "edics",
+      "start": 100330,
+      "end": 100654,
+      "confidence": 0.4074,
+      "speaker": null
+    },
+    {
+      "text": "well",
+      "start": 100702,
+      "end": 101094,
+      "confidence": 0.99662,
+      "speaker": null
+    },
+    {
+      "text": "for",
+      "start": 101192,
+      "end": 101382,
+      "confidence": 0.99203,
+      "speaker": null
+    },
+    {
+      "text": "the",
+      "start": 101396,
+      "end": 101502,
+      "confidence": 0.99,
+      "speaker": null
+    },
+    {
+      "text": "most",
+      "start": 101516,
+      "end": 101694,
+      "confidence": 0.99859,
+      "speaker": null
+    },
+    {
+      "text": "part.",
+      "start": 101732,
+      "end": 102320,
+      "confidence": 0.99749,
+      "speaker": null
+    },
+    {
+      "text": "Nah,",
+      "start": 102710,
+      "end": 103186,
+      "confidence": 0.31749,
+      "speaker": null
+    },
+    {
+      "text": "don't",
+      "start": 103258,
+      "end": 103462,
+      "confidence": 0.63575,
+      "speaker": null
+    },
+    {
+      "text": "get",
+      "start": 103486,
+      "end": 103602,
+      "confidence": 0.9993,
+      "speaker": null
+    },
+    {
+      "text": "me",
+      "start": 103616,
+      "end": 103830,
+      "confidence": 0.99885,
+      "speaker": null
+    },
+    {
+      "text": "started",
+      "start": 103880,
+      "end": 104166,
+      "confidence": 0.99962,
+      "speaker": null
+    },
+    {
+      "text": "on",
+      "start": 104228,
+      "end": 104382,
+      "confidence": 0.99675,
+      "speaker": null
+    },
+    {
+      "text": "that",
+      "start": 104396,
+      "end": 104538,
+      "confidence": 0.98144,
+      "speaker": null
+    },
+    {
+      "text": "pile",
+      "start": 104564,
+      "end": 104758,
+      "confidence": 0.38253,
+      "speaker": null
+    },
+    {
+      "text": "of",
+      "start": 104794,
+      "end": 105354,
+      "confidence": 0.89,
+      "speaker": null
+    },
+    {
+      "text": "the",
+      "start": 105512,
+      "end": 105762,
+      "confidence": 0.99,
+      "speaker": null
+    },
+    {
+      "text": "law",
+      "start": 105776,
+      "end": 105954,
+      "confidence": 0.99918,
+      "speaker": null
+    },
+    {
+      "text": "has",
+      "start": 105992,
+      "end": 106158,
+      "confidence": 0.99165,
+      "speaker": null
+    },
+    {
+      "text": "its",
+      "start": 106184,
+      "end": 106338,
+      "confidence": 0.91363,
+      "speaker": null
+    },
+    {
+      "text": "own",
+      "start": 106364,
+      "end": 106554,
+      "confidence": 0.99981,
+      "speaker": null
+    },
+    {
+      "text": "problems",
+      "start": 106592,
+      "end": 106830,
+      "confidence": 0.97964,
+      "speaker": null
+    },
+    {
+      "text": "with",
+      "start": 106880,
+      "end": 107094,
+      "confidence": 0.99711,
+      "speaker": null
+    },
+    {
+      "text": "addicts.",
+      "start": 107132,
+      "end": 107734,
+      "confidence": 0.26292,
+      "speaker": null
+    },
+    {
+      "text": "But",
+      "start": 107842,
+      "end": 108078,
+      "confidence": 0.99625,
+      "speaker": null
+    },
+    {
+      "text": "you're",
+      "start": 108104,
+      "end": 108262,
+      "confidence": 0.9171,
+      "speaker": null
+    },
+    {
+      "text": "right,",
+      "start": 108286,
+      "end": 108546,
+      "confidence": 1,
+      "speaker": null
+    },
+    {
+      "text": "the",
+      "start": 108608,
+      "end": 108834,
+      "confidence": 0.54,
+      "speaker": null
+    },
+    {
+      "text": "frozen",
+      "start": 108872,
+      "end": 109222,
+      "confidence": 0.99898,
+      "speaker": null
+    },
+    {
+      "text": "turd",
+      "start": 109246,
+      "end": 109486,
+      "confidence": 0.84092,
+      "speaker": null
+    },
+    {
+      "text": "pile",
+      "start": 109498,
+      "end": 109810,
+      "confidence": 0.63496,
+      "speaker": null
+    },
+    {
+      "text": "doesn't",
+      "start": 109870,
+      "end": 110158,
+      "confidence": 0.98862,
+      "speaker": null
+    },
+    {
+      "text": "stain",
+      "start": 110194,
+      "end": 110566,
+      "confidence": 0.94441,
+      "speaker": null
+    },
+    {
+      "text": "anywhere",
+      "start": 110638,
+      "end": 111094,
+      "confidence": 0.99454,
+      "speaker": null
+    },
+    {
+      "text": "as",
+      "start": 111142,
+      "end": 111318,
+      "confidence": 0.99795,
+      "speaker": null
+    },
+    {
+      "text": "much",
+      "start": 111344,
+      "end": 111570,
+      "confidence": 0.99985,
+      "speaker": null
+    },
+    {
+      "text": "as",
+      "start": 111620,
+      "end": 111762,
+      "confidence": 0.99823,
+      "speaker": null
+    },
+    {
+      "text": "the",
+      "start": 111776,
+      "end": 111882,
+      "confidence": 0.75,
+      "speaker": null
+    },
+    {
+      "text": "fresh,",
+      "start": 111896,
+      "end": 112210,
+      "confidence": 0.99824,
+      "speaker": null
+    },
+    {
+      "text": "steaming",
+      "start": 112270,
+      "end": 112738,
+      "confidence": 0.93156,
+      "speaker": null
+    },
+    {
+      "text": "ones",
+      "start": 112774,
+      "end": 112938,
+      "confidence": 0.79,
+      "speaker": null
+    },
+    {
+      "text": "that",
+      "start": 112964,
+      "end": 113082,
+      "confidence": 0.98475,
+      "speaker": null
+    },
+    {
+      "text": "just",
+      "start": 113096,
+      "end": 113238,
+      "confidence": 0.99633,
+      "speaker": null
+    },
+    {
+      "text": "came",
+      "start": 113264,
+      "end": 113418,
+      "confidence": 0.99982,
+      "speaker": null
+    },
+    {
+      "text": "out.",
+      "start": 113444,
+      "end": 113742,
+      "confidence": 0.9994,
+      "speaker": null
+    },
+    {
+      "text": "And",
+      "start": 113816,
+      "end": 114018,
+      "confidence": 0.74,
+      "speaker": null
+    },
+    {
+      "text": "as",
+      "start": 114044,
+      "end": 114162,
+      "confidence": 0.9978,
+      "speaker": null
+    },
+    {
+      "text": "long",
+      "start": 114176,
+      "end": 114282,
+      "confidence": 0.99993,
+      "speaker": null
+    },
+    {
+      "text": "as",
+      "start": 114296,
+      "end": 114438,
+      "confidence": 0.51405,
+      "speaker": null
+    },
+    {
+      "text": "you",
+      "start": 114464,
+      "end": 114546,
+      "confidence": 0.99,
+      "speaker": null
+    },
+    {
+      "text": "aren't",
+      "start": 114548,
+      "end": 114742,
+      "confidence": 0.51605,
+      "speaker": null
+    },
+    {
+      "text": "like",
+      "start": 114766,
+      "end": 114990,
+      "confidence": 0.80158,
+      "speaker": null
+    },
+    {
+      "text": "a",
+      "start": 115040,
+      "end": 115218,
+      "confidence": 0.98,
+      "speaker": null
+    },
+    {
+      "text": "sociopathic",
+      "start": 115244,
+      "end": 115918,
+      "confidence": 0.9698,
+      "speaker": null
+    },
+    {
+      "text": "Lego",
+      "start": 115954,
+      "end": 116242,
+      "confidence": 0.61178,
+      "speaker": null
+    },
+    {
+      "text": "brick",
+      "start": 116266,
+      "end": 116914,
+      "confidence": 0.84048,
+      "speaker": null
+    },
+    {
+      "text": "stabs",
+      "start": 117082,
+      "end": 117622,
+      "confidence": 0.91121,
+      "speaker": null
+    },
+    {
+      "text": "people",
+      "start": 117646,
+      "end": 117942,
+      "confidence": 0.99945,
+      "speaker": null
+    },
+    {
+      "text": "to",
+      "start": 118016,
+      "end": 118218,
+      "confidence": 0.88,
+      "speaker": null
+    },
+    {
+      "text": "paint",
+      "start": 118244,
+      "end": 118426,
+      "confidence": 0.99885,
+      "speaker": null
+    },
+    {
+      "text": "their",
+      "start": 118438,
+      "end": 118578,
+      "confidence": 0.79663,
+      "speaker": null
+    },
+    {
+      "text": "walls",
+      "start": 118604,
+      "end": 118786,
+      "confidence": 0.98927,
+      "speaker": null
+    },
+    {
+      "text": "with",
+      "start": 118798,
+      "end": 118938,
+      "confidence": 0.80212,
+      "speaker": null
+    },
+    {
+      "text": "blood,",
+      "start": 118964,
+      "end": 119470,
+      "confidence": 0.91172,
+      "speaker": null
+    },
+    {
+      "text": "you're",
+      "start": 119590,
+      "end": 119938,
+      "confidence": 0.63896,
+      "speaker": null
+    },
+    {
+      "text": "good",
+      "start": 119974,
+      "end": 120102,
+      "confidence": 0.99843,
+      "speaker": null
+    },
+    {
+      "text": "at",
+      "start": 120116,
+      "end": 120222,
+      "confidence": 0.8,
+      "speaker": null
+    },
+    {
+      "text": "my",
+      "start": 120236,
+      "end": 120378,
+      "confidence": 0.92856,
+      "speaker": null
+    },
+    {
+      "text": "book.",
+      "start": 120404,
+      "end": 120980,
+      "confidence": 0.96064,
+      "speaker": null
+    },
+    {
+      "text": "Hypothetically,",
+      "start": 122270,
+      "end": 123750,
+      "confidence": 0.80625,
+      "speaker": null
+    },
+    {
+      "text": "what",
+      "start": 124550,
+      "end": 124878,
+      "confidence": 0.99892,
+      "speaker": null
+    },
+    {
+      "text": "is",
+      "start": 124904,
+      "end": 125094,
+      "confidence": 0.76519,
+      "speaker": null
+    },
+    {
+      "text": "they",
+      "start": 125132,
+      "end": 125370,
+      "confidence": 0.5354,
+      "speaker": null
+    },
+    {
+      "text": "consent",
+      "start": 125420,
+      "end": 125818,
+      "confidence": 0.99946,
+      "speaker": null
+    },
+    {
+      "text": "to?",
+      "start": 125854,
+      "end": 126440,
+      "confidence": 0.57,
+      "speaker": null
+    },
+    {
+      "text": "That's",
+      "start": 126950,
+      "end": 127402,
+      "confidence": 0.70353,
+      "speaker": null
+    },
+    {
+      "text": "a",
+      "start": 127426,
+      "end": 127542,
+      "confidence": 0.91,
+      "speaker": null
+    },
+    {
+      "text": "positive.",
+      "start": 127556,
+      "end": 128370,
+      "confidence": 0.04697,
+      "speaker": null
+    },
+    {
+      "text": "I",
+      "start": 129590,
+      "end": 129918,
+      "confidence": 0.59,
+      "speaker": null
+    },
+    {
+      "text": "suppose",
+      "start": 129944,
+      "end": 130234,
+      "confidence": 0.61529,
+      "speaker": null
+    },
+    {
+      "text": "it's",
+      "start": 130282,
+      "end": 130426,
+      "confidence": 0.88005,
+      "speaker": null
+    },
+    {
+      "text": "got",
+      "start": 130438,
+      "end": 130542,
+      "confidence": 0.99105,
+      "speaker": null
+    },
+    {
+      "text": "to",
+      "start": 130556,
+      "end": 130662,
+      "confidence": 0.87,
+      "speaker": null
+    },
+    {
+      "text": "be",
+      "start": 130676,
+      "end": 130782,
+      "confidence": 0.99831,
+      "speaker": null
+    },
+    {
+      "text": "informed",
+      "start": 130796,
+      "end": 131182,
+      "confidence": 0.92746,
+      "speaker": null
+    },
+    {
+      "text": "consent,",
+      "start": 131206,
+      "end": 131518,
+      "confidence": 0.99891,
+      "speaker": null
+    },
+    {
+      "text": "too.",
+      "start": 131554,
+      "end": 132150,
+      "confidence": 0.93237,
+      "speaker": null
+    },
+    {
+      "text": "Say",
+      "start": 132320,
+      "end": 132618,
+      "confidence": 0.95344,
+      "speaker": null
+    },
+    {
+      "text": "we're",
+      "start": 132644,
+      "end": 132826,
+      "confidence": 0.93346,
+      "speaker": null
+    },
+    {
+      "text": "dealing",
+      "start": 132838,
+      "end": 133042,
+      "confidence": 0.99692,
+      "speaker": null
+    },
+    {
+      "text": "with",
+      "start": 133066,
+      "end": 133182,
+      "confidence": 0.99988,
+      "speaker": null
+    },
+    {
+      "text": "a",
+      "start": 133196,
+      "end": 133302,
+      "confidence": 0.65,
+      "speaker": null
+    },
+    {
+      "text": "five",
+      "start": 133316,
+      "end": 133494,
+      "confidence": 0.76,
+      "speaker": null
+    },
+    {
+      "text": "year",
+      "start": 133532,
+      "end": 133662,
+      "confidence": 0.9965,
+      "speaker": null
+    },
+    {
+      "text": "old,",
+      "start": 133676,
+      "end": 134250,
+      "confidence": 0.98097,
+      "speaker": null
+    },
+    {
+      "text": "they",
+      "start": 134420,
+      "end": 134682,
+      "confidence": 0.98379,
+      "speaker": null
+    },
+    {
+      "text": "ain't",
+      "start": 134696,
+      "end": 134878,
+      "confidence": 0.33355,
+      "speaker": null
+    },
+    {
+      "text": "going",
+      "start": 134914,
+      "end": 135042,
+      "confidence": 0.99097,
+      "speaker": null
+    },
+    {
+      "text": "to",
+      "start": 135056,
+      "end": 135162,
+      "confidence": 1,
+      "speaker": null
+    },
+    {
+      "text": "know",
+      "start": 135176,
+      "end": 135354,
+      "confidence": 0.99761,
+      "speaker": null
+    },
+    {
+      "text": "anything.",
+      "start": 135392,
+      "end": 135954,
+      "confidence": 0.96835,
+      "speaker": null
+    },
+    {
+      "text": "But",
+      "start": 136112,
+      "end": 136398,
+      "confidence": 0.97781,
+      "speaker": null
+    },
+    {
+      "text": "if",
+      "start": 136424,
+      "end": 136542,
+      "confidence": 0.98589,
+      "speaker": null
+    },
+    {
+      "text": "a",
+      "start": 136556,
+      "end": 136626,
+      "confidence": 0.46,
+      "speaker": null
+    },
+    {
+      "text": "man",
+      "start": 136628,
+      "end": 136758,
+      "confidence": 0.93892,
+      "speaker": null
+    },
+    {
+      "text": "is",
+      "start": 136784,
+      "end": 136902,
+      "confidence": 0.71563,
+      "speaker": null
+    },
+    {
+      "text": "90",
+      "start": 136916,
+      "end": 137130,
+      "confidence": 0.99,
+      "speaker": null
+    },
+    {
+      "text": "years",
+      "start": 137180,
+      "end": 137358,
+      "confidence": 0.99858,
+      "speaker": null
+    },
+    {
+      "text": "old,",
+      "start": 137384,
+      "end": 137826,
+      "confidence": 0.9997,
+      "speaker": null
+    },
+    {
+      "text": "call",
+      "start": 137948,
+      "end": 138198,
+      "confidence": 0.97243,
+      "speaker": null
+    },
+    {
+      "text": "it",
+      "start": 138224,
+      "end": 138342,
+      "confidence": 0.96448,
+      "speaker": null
+    },
+    {
+      "text": "euthanasia.",
+      "start": 138356,
+      "end": 139186,
+      "confidence": 0.56243,
+      "speaker": null
+    },
+    {
+      "text": "Yes,",
+      "start": 139318,
+      "end": 139938,
+      "confidence": 0.86037,
+      "speaker": null
+    },
+    {
+      "text": "I",
+      "start": 140084,
+      "end": 140394,
+      "confidence": 0.72,
+      "speaker": null
+    },
+    {
+      "text": "agree",
+      "start": 140432,
+      "end": 140634,
+      "confidence": 0.99858,
+      "speaker": null
+    },
+    {
+      "text": "completely.",
+      "start": 140672,
+      "end": 141270,
+      "confidence": 0.99642,
+      "speaker": null
+    },
+    {
+      "text": "You",
+      "start": 141440,
+      "end": 141738,
+      "confidence": 0.53,
+      "speaker": null
+    },
+    {
+      "text": "do",
+      "start": 141764,
+      "end": 141918,
+      "confidence": 0.99677,
+      "speaker": null
+    },
+    {
+      "text": "see",
+      "start": 141944,
+      "end": 142134,
+      "confidence": 0.99949,
+      "speaker": null
+    },
+    {
+      "text": "people",
+      "start": 142172,
+      "end": 142374,
+      "confidence": 0.99991,
+      "speaker": null
+    },
+    {
+      "text": "complaining",
+      "start": 142412,
+      "end": 142762,
+      "confidence": 0.77132,
+      "speaker": null
+    },
+    {
+      "text": "about",
+      "start": 142786,
+      "end": 142974,
+      "confidence": 0.97593,
+      "speaker": null
+    },
+    {
+      "text": "things",
+      "start": 143012,
+      "end": 143214,
+      "confidence": 0.98986,
+      "speaker": null
+    },
+    {
+      "text": "less",
+      "start": 143252,
+      "end": 143840,
+      "confidence": 0.70638,
+      "speaker": null
+    },
+    {
+      "text": "personal,",
+      "start": 144470,
+      "end": 145122,
+      "confidence": 0.99591,
+      "speaker": null
+    },
+    {
+      "text": "too,",
+      "start": 145256,
+      "end": 145590,
+      "confidence": 0.81583,
+      "speaker": null
+    },
+    {
+      "text": "like,",
+      "start": 145640,
+      "end": 146070,
+      "confidence": 0.94732,
+      "speaker": null
+    },
+    {
+      "text": "um,",
+      "start": 146070,
+      "end": 146180,
+      "confidence": 0.9879022240638733,
+      "speaker": null
+    },
+    {
+      "text": "attacking",
+      "start": 146180,
+      "end": 146602,
+      "confidence": 0.99037,
+      "speaker": null
+    },
+    {
+      "text": "people's",
+      "start": 146626,
+      "end": 146902,
+      "confidence": 0.85618,
+      "speaker": null
+    },
+    {
+      "text": "reputations.",
+      "start": 146926,
+      "end": 147810,
+      "confidence": 0.86268,
+      "speaker": null
+    },
+    {
+      "text": "So",
+      "start": 148250,
+      "end": 148578,
+      "confidence": 0.80951,
+      "speaker": null
+    },
+    {
+      "text": "m,",
+      "start": 148578,
+      "end": 148604,
+      "confidence": 0.65,
+      "speaker": null
+    },
+    {
+      "text": "what",
+      "start": 148604,
+      "end": 148722,
+      "confidence": 0.99657,
+      "speaker": null
+    },
+    {
+      "text": "if",
+      "start": 148736,
+      "end": 148914,
+      "confidence": 0.5224,
+      "speaker": null
+    },
+    {
+      "text": "people",
+      "start": 148952,
+      "end": 149190,
+      "confidence": 0.99996,
+      "speaker": null
+    },
+    {
+      "text": "get",
+      "start": 149240,
+      "end": 149382,
+      "confidence": 0.99864,
+      "speaker": null
+    },
+    {
+      "text": "offended",
+      "start": 149396,
+      "end": 149962,
+      "confidence": 0.68789,
+      "speaker": null
+    },
+    {
+      "text": "if",
+      "start": 150046,
+      "end": 150222,
+      "confidence": 0.73669,
+      "speaker": null
+    },
+    {
+      "text": "I",
+      "start": 150236,
+      "end": 150378,
+      "confidence": 0.98,
+      "speaker": null
+    },
+    {
+      "text": "tell",
+      "start": 150404,
+      "end": 150522,
+      "confidence": 0.99671,
+      "speaker": null
+    },
+    {
+      "text": "the",
+      "start": 150536,
+      "end": 150678,
+      "confidence": 0.78,
+      "speaker": null
+    },
+    {
+      "text": "truth?",
+      "start": 150704,
+      "end": 150934,
+      "confidence": 0.84079,
+      "speaker": null
+    },
+    {
+      "text": "Writing",
+      "start": 150982,
+      "end": 151198,
+      "confidence": 0.99716,
+      "speaker": null
+    },
+    {
+      "text": "an",
+      "start": 151234,
+      "end": 151362,
+      "confidence": 0.98553,
+      "speaker": null
+    },
+    {
+      "text": "angry",
+      "start": 151376,
+      "end": 151678,
+      "confidence": 0.9144,
+      "speaker": null
+    },
+    {
+      "text": "song",
+      "start": 151714,
+      "end": 151882,
+      "confidence": 0.99424,
+      "speaker": null
+    },
+    {
+      "text": "about",
+      "start": 151906,
+      "end": 152058,
+      "confidence": 0.99686,
+      "speaker": null
+    },
+    {
+      "text": "the",
+      "start": 152084,
+      "end": 152238,
+      "confidence": 0.96,
+      "speaker": null
+    },
+    {
+      "text": "shriveled",
+      "start": 152264,
+      "end": 152662,
+      "confidence": 0.90416,
+      "speaker": null
+    },
+    {
+      "text": "grapefruits",
+      "start": 152686,
+      "end": 153118,
+      "confidence": 0.48399,
+      "speaker": null
+    },
+    {
+      "text": "in",
+      "start": 153154,
+      "end": 153282,
+      "confidence": 0.76668,
+      "speaker": null
+    },
+    {
+      "text": "office?",
+      "start": 153296,
+      "end": 153618,
+      "confidence": 0.99729,
+      "speaker": null
+    },
+    {
+      "text": "Why",
+      "start": 153704,
+      "end": 153882,
+      "confidence": 0.98088,
+      "speaker": null
+    },
+    {
+      "text": "the",
+      "start": 153896,
+      "end": 154074,
+      "confidence": 0.89,
+      "speaker": null
+    },
+    {
+      "text": "flying",
+      "start": 154112,
+      "end": 154618,
+      "confidence": 0.521,
+      "speaker": null
+    },
+    {
+      "text": "would",
+      "start": 154714,
+      "end": 154902,
+      "confidence": 0.8772,
+      "speaker": null
+    },
+    {
+      "text": "I",
+      "start": 154916,
+      "end": 155022,
+      "confidence": 0.99,
+      "speaker": null
+    },
+    {
+      "text": "need",
+      "start": 155036,
+      "end": 155178,
+      "confidence": 0.99823,
+      "speaker": null
+    },
+    {
+      "text": "consent",
+      "start": 155204,
+      "end": 155482,
+      "confidence": 0.99918,
+      "speaker": null
+    },
+    {
+      "text": "for",
+      "start": 155506,
+      "end": 155622,
+      "confidence": 0.99365,
+      "speaker": null
+    },
+    {
+      "text": "that?",
+      "start": 155636,
+      "end": 156066,
+      "confidence": 0.9911,
+      "speaker": null
+    },
+    {
+      "text": "Everyone",
+      "start": 156188,
+      "end": 156618,
+      "confidence": 0.99859,
+      "speaker": null
+    },
+    {
+      "text": "and",
+      "start": 156704,
+      "end": 156954,
+      "confidence": 1,
+      "speaker": null
+    },
+    {
+      "text": "their",
+      "start": 156992,
+      "end": 157194,
+      "confidence": 0.98946,
+      "speaker": null
+    },
+    {
+      "text": "Karen",
+      "start": 157232,
+      "end": 157594,
+      "confidence": 0.72788,
+      "speaker": null
+    },
+    {
+      "text": "have",
+      "start": 157642,
+      "end": 157782,
+      "confidence": 0.73438,
+      "speaker": null
+    },
+    {
+      "text": "been",
+      "start": 157796,
+      "end": 157974,
+      "confidence": 0.879,
+      "speaker": null
+    },
+    {
+      "text": "writing",
+      "start": 158012,
+      "end": 158254,
+      "confidence": 0.99893,
+      "speaker": null
+    },
+    {
+      "text": "blogs",
+      "start": 158302,
+      "end": 158602,
+      "confidence": 0.63634,
+      "speaker": null
+    },
+    {
+      "text": "like",
+      "start": 158626,
+      "end": 158778,
+      "confidence": 0.99461,
+      "speaker": null
+    },
+    {
+      "text": "that",
+      "start": 158804,
+      "end": 158958,
+      "confidence": 0.99845,
+      "speaker": null
+    },
+    {
+      "text": "for",
+      "start": 158984,
+      "end": 159210,
+      "confidence": 0.99589,
+      "speaker": null
+    },
+    {
+      "text": "years.",
+      "start": 159260,
+      "end": 159582,
+      "confidence": 0.99995,
+      "speaker": null
+    },
+    {
+      "text": "And",
+      "start": 159656,
+      "end": 159858,
+      "confidence": 0.95,
+      "speaker": null
+    },
+    {
+      "text": "guess",
+      "start": 159884,
+      "end": 160074,
+      "confidence": 0.99967,
+      "speaker": null
+    },
+    {
+      "text": "what?",
+      "start": 160112,
+      "end": 160710,
+      "confidence": 0.99978,
+      "speaker": null
+    },
+    {
+      "text": "No",
+      "start": 160880,
+      "end": 161178,
+      "confidence": 0.68868,
+      "speaker": null
+    },
+    {
+      "text": "one",
+      "start": 161204,
+      "end": 161430,
+      "confidence": 0.51,
+      "speaker": null
+    },
+    {
+      "text": "cares.",
+      "start": 161480,
+      "end": 162070,
+      "confidence": 0.84438,
+      "speaker": null
+    },
+    {
+      "text": "Everyone",
+      "start": 162190,
+      "end": 162546,
+      "confidence": 0.99811,
+      "speaker": null
+    },
+    {
+      "text": "is",
+      "start": 162608,
+      "end": 162870,
+      "confidence": 0.63872,
+      "speaker": null
+    },
+    {
+      "text": "perfectly",
+      "start": 162920,
+      "end": 163354,
+      "confidence": 0.57438,
+      "speaker": null
+    },
+    {
+      "text": "fine.",
+      "start": 163402,
+      "end": 163722,
+      "confidence": 0.99996,
+      "speaker": null
+    },
+    {
+      "text": "The",
+      "start": 163796,
+      "end": 163962,
+      "confidence": 0.99,
+      "speaker": null
+    },
+    {
+      "text": "Internet",
+      "start": 163976,
+      "end": 164278,
+      "confidence": 0.89146,
+      "speaker": null
+    },
+    {
+      "text": "will",
+      "start": 164314,
+      "end": 164514,
+      "confidence": 1,
+      "speaker": null
+    },
+    {
+      "text": "crucify",
+      "start": 164552,
+      "end": 165082,
+      "confidence": 0.97672,
+      "speaker": null
+    },
+    {
+      "text": "you",
+      "start": 165106,
+      "end": 165330,
+      "confidence": 0.61,
+      "speaker": null
+    },
+    {
+      "text": "if",
+      "start": 165380,
+      "end": 165522,
+      "confidence": 0.99815,
+      "speaker": null
+    },
+    {
+      "text": "you",
+      "start": 165536,
+      "end": 165642,
+      "confidence": 1,
+      "speaker": null
+    },
+    {
+      "text": "try",
+      "start": 165656,
+      "end": 165762,
+      "confidence": 0.60562,
+      "speaker": null
+    },
+    {
+      "text": "to",
+      "start": 165776,
+      "end": 165882,
+      "confidence": 0.99,
+      "speaker": null
+    },
+    {
+      "text": "do",
+      "start": 165896,
+      "end": 166038,
+      "confidence": 0.99972,
+      "speaker": null
+    },
+    {
+      "text": "that.",
+      "start": 166064,
+      "end": 166290,
+      "confidence": 0.99935,
+      "speaker": null
+    },
+    {
+      "text": "And",
+      "start": 166340,
+      "end": 166482,
+      "confidence": 0.89,
+      "speaker": null
+    },
+    {
+      "text": "it's",
+      "start": 166496,
+      "end": 166858,
+      "confidence": 0.81505,
+      "speaker": null
+    },
+    {
+      "text": "rude",
+      "start": 166954,
+      "end": 167278,
+      "confidence": 0.97379,
+      "speaker": null
+    },
+    {
+      "text": "to",
+      "start": 167314,
+      "end": 167478,
+      "confidence": 0.72,
+      "speaker": null
+    },
+    {
+      "text": "post",
+      "start": 167504,
+      "end": 167658,
+      "confidence": 0.99861,
+      "speaker": null
+    },
+    {
+      "text": "it",
+      "start": 167684,
+      "end": 167802,
+      "confidence": 0.94827,
+      "speaker": null
+    },
+    {
+      "text": "in",
+      "start": 167816,
+      "end": 167922,
+      "confidence": 0.98874,
+      "speaker": null
+    },
+    {
+      "text": "public,",
+      "start": 167936,
+      "end": 168294,
+      "confidence": 0.99801,
+      "speaker": null
+    },
+    {
+      "text": "but",
+      "start": 168392,
+      "end": 168582,
+      "confidence": 0.98568,
+      "speaker": null
+    },
+    {
+      "text": "I",
+      "start": 168596,
+      "end": 168738,
+      "confidence": 0.51,
+      "speaker": null
+    },
+    {
+      "text": "wouldn't",
+      "start": 168764,
+      "end": 168982,
+      "confidence": 0.99152,
+      "speaker": null
+    },
+    {
+      "text": "stop",
+      "start": 169006,
+      "end": 169194,
+      "confidence": 0.99986,
+      "speaker": null
+    },
+    {
+      "text": "anyone",
+      "start": 169232,
+      "end": 169506,
+      "confidence": 0.99882,
+      "speaker": null
+    },
+    {
+      "text": "from",
+      "start": 169568,
+      "end": 169758,
+      "confidence": 0.99948,
+      "speaker": null
+    },
+    {
+      "text": "trying.",
+      "start": 169784,
+      "end": 170360,
+      "confidence": 0.99764,
+      "speaker": null
+    },
+    {
+      "text": "How",
+      "start": 171350,
+      "end": 171678,
+      "confidence": 0.99164,
+      "speaker": null
+    },
+    {
+      "text": "about",
+      "start": 171704,
+      "end": 171894,
+      "confidence": 0.99871,
+      "speaker": null
+    },
+    {
+      "text": "animals?",
+      "start": 171932,
+      "end": 172630,
+      "confidence": 0.95797,
+      "speaker": null
+    },
+    {
+      "text": "Where",
+      "start": 172810,
+      "end": 173118,
+      "confidence": 0.83616,
+      "speaker": null
+    },
+    {
+      "text": "do",
+      "start": 173144,
+      "end": 173226,
+      "confidence": 0.98499,
+      "speaker": null
+    },
+    {
+      "text": "you",
+      "start": 173228,
+      "end": 173286,
+      "confidence": 1,
+      "speaker": null
+    },
+    {
+      "text": "draw",
+      "start": 173288,
+      "end": 173418,
+      "confidence": 0.69895,
+      "speaker": null
+    },
+    {
+      "text": "the",
+      "start": 173444,
+      "end": 173562,
+      "confidence": 1,
+      "speaker": null
+    },
+    {
+      "text": "line?",
+      "start": 173576,
+      "end": 174140,
+      "confidence": 0.98051,
+      "speaker": null
+    },
+    {
+      "text": "If",
+      "start": 175070,
+      "end": 175434,
+      "confidence": 0.95287,
+      "speaker": null
+    },
+    {
+      "text": "I",
+      "start": 175472,
+      "end": 175674,
+      "confidence": 0.96,
+      "speaker": null
+    },
+    {
+      "text": "see",
+      "start": 175712,
+      "end": 175986,
+      "confidence": 0.99898,
+      "speaker": null
+    },
+    {
+      "text": "one",
+      "start": 176048,
+      "end": 176310,
+      "confidence": 1,
+      "speaker": null
+    },
+    {
+      "text": "person",
+      "start": 176360,
+      "end": 176898,
+      "confidence": 0.96121,
+      "speaker": null
+    },
+    {
+      "text": "who",
+      "start": 177044,
+      "end": 177318,
+      "confidence": 0.99678,
+      "speaker": null
+    },
+    {
+      "text": "lays",
+      "start": 177344,
+      "end": 177622,
+      "confidence": 0.97635,
+      "speaker": null
+    },
+    {
+      "text": "a",
+      "start": 177646,
+      "end": 177762,
+      "confidence": 0.99,
+      "speaker": null
+    },
+    {
+      "text": "finger",
+      "start": 177776,
+      "end": 178186,
+      "confidence": 0.99958,
+      "speaker": null
+    },
+    {
+      "text": "on",
+      "start": 178258,
+      "end": 178458,
+      "confidence": 0.99926,
+      "speaker": null
+    },
+    {
+      "text": "a",
+      "start": 178484,
+      "end": 178638,
+      "confidence": 0.99,
+      "speaker": null
+    },
+    {
+      "text": "dog",
+      "start": 178664,
+      "end": 179142,
+      "confidence": 0.99978,
+      "speaker": null
+    },
+    {
+      "text": "or",
+      "start": 179276,
+      "end": 179538,
+      "confidence": 0.9612,
+      "speaker": null
+    },
+    {
+      "text": "cat",
+      "start": 179564,
+      "end": 180150,
+      "confidence": 0.6328,
+      "speaker": null
+    },
+    {
+      "text": "or",
+      "start": 180320,
+      "end": 180690,
+      "confidence": 0.97943,
+      "speaker": null
+    },
+    {
+      "text": "mouse",
+      "start": 180740,
+      "end": 181282,
+      "confidence": 0.85879,
+      "speaker": null
+    },
+    {
+      "text": "and",
+      "start": 181366,
+      "end": 181758,
+      "confidence": 0.99,
+      "speaker": null
+    },
+    {
+      "text": "dares",
+      "start": 181844,
+      "end": 182410,
+      "confidence": 0.95272,
+      "speaker": null
+    },
+    {
+      "text": "to",
+      "start": 182470,
+      "end": 182658,
+      "confidence": 0.52,
+      "speaker": null
+    },
+    {
+      "text": "hurt",
+      "start": 182684,
+      "end": 182842,
+      "confidence": 0.85602,
+      "speaker": null
+    },
+    {
+      "text": "one",
+      "start": 182866,
+      "end": 183090,
+      "confidence": 0.98,
+      "speaker": null
+    },
+    {
+      "text": "mentally",
+      "start": 183140,
+      "end": 183502,
+      "confidence": 0.99671,
+      "speaker": null
+    },
+    {
+      "text": "or",
+      "start": 183526,
+      "end": 183678,
+      "confidence": 0.99496,
+      "speaker": null
+    },
+    {
+      "text": "physically",
+      "start": 183704,
+      "end": 184066,
+      "confidence": 0.99268,
+      "speaker": null
+    },
+    {
+      "text": "I'll",
+      "start": 184138,
+      "end": 184378,
+      "confidence": 0.81283,
+      "speaker": null
+    },
+    {
+      "text": "have",
+      "start": 184414,
+      "end": 184542,
+      "confidence": 0.97789,
+      "speaker": null
+    },
+    {
+      "text": "you",
+      "start": 184556,
+      "end": 184662,
+      "confidence": 1,
+      "speaker": null
+    },
+    {
+      "text": "know",
+      "start": 184676,
+      "end": 184926,
+      "confidence": 0.68901,
+      "speaker": null
+    },
+    {
+      "text": "I",
+      "start": 184988,
+      "end": 185214,
+      "confidence": 1,
+      "speaker": null
+    },
+    {
+      "text": "graduated",
+      "start": 185252,
+      "end": 185734,
+      "confidence": 0.9938,
+      "speaker": null
+    },
+    {
+      "text": "top",
+      "start": 185782,
+      "end": 185958,
+      "confidence": 0.99854,
+      "speaker": null
+    },
+    {
+      "text": "of",
+      "start": 185984,
+      "end": 186102,
+      "confidence": 0.9,
+      "speaker": null
+    },
+    {
+      "text": "my",
+      "start": 186116,
+      "end": 186258,
+      "confidence": 0.99955,
+      "speaker": null
+    },
+    {
+      "text": "class",
+      "start": 186284,
+      "end": 186510,
+      "confidence": 0.99983,
+      "speaker": null
+    },
+    {
+      "text": "in",
+      "start": 186560,
+      "end": 186702,
+      "confidence": 0.83313,
+      "speaker": null
+    },
+    {
+      "text": "the",
+      "start": 186716,
+      "end": 186822,
+      "confidence": 0.97,
+      "speaker": null
+    },
+    {
+      "text": "Navy",
+      "start": 186836,
+      "end": 187102,
+      "confidence": 0.99885,
+      "speaker": null
+    },
+    {
+      "text": "Seals,",
+      "start": 187126,
+      "end": 187450,
+      "confidence": 0.97984,
+      "speaker": null
+    },
+    {
+      "text": "and",
+      "start": 187510,
+      "end": 187698,
+      "confidence": 0.97,
+      "speaker": null
+    },
+    {
+      "text": "I've",
+      "start": 187724,
+      "end": 187882,
+      "confidence": 0.90289,
+      "speaker": null
+    },
+    {
+      "text": "been",
+      "start": 187906,
+      "end": 188022,
+      "confidence": 0.99914,
+      "speaker": null
+    },
+    {
+      "text": "involved",
+      "start": 188036,
+      "end": 188338,
+      "confidence": 0.98639,
+      "speaker": null
+    },
+    {
+      "text": "in",
+      "start": 188374,
+      "end": 188538,
+      "confidence": 0.99907,
+      "speaker": null
+    },
+    {
+      "text": "numerous",
+      "start": 188564,
+      "end": 188878,
+      "confidence": 0.76081,
+      "speaker": null
+    },
+    {
+      "text": "secret",
+      "start": 188914,
+      "end": 189178,
+      "confidence": 0.99691,
+      "speaker": null
+    },
+    {
+      "text": "rates",
+      "start": 189214,
+      "end": 189574,
+      "confidence": 0.64583,
+      "speaker": null
+    },
+    {
+      "text": "on",
+      "start": 189622,
+      "end": 189798,
+      "confidence": 0.99906,
+      "speaker": null
+    },
+    {
+      "text": "Al",
+      "start": 189824,
+      "end": 189942,
+      "confidence": 0.9981,
+      "speaker": null
+    },
+    {
+      "text": "Qaeda",
+      "start": 189956,
+      "end": 190318,
+      "confidence": 0.86965,
+      "speaker": null
+    },
+    {
+      "text": "with",
+      "start": 190354,
+      "end": 190518,
+      "confidence": 0.999,
+      "speaker": null
+    },
+    {
+      "text": "over",
+      "start": 190544,
+      "end": 190770,
+      "confidence": 0.74905,
+      "speaker": null
+    },
+    {
+      "text": "300",
+      "start": 190820,
+      "end": 191418,
+      "confidence": 0.99,
+      "speaker": null
+    },
+    {
+      "text": "confirmed",
+      "start": 191504,
+      "end": 191938,
+      "confidence": 0.54097,
+      "speaker": null
+    },
+    {
+      "text": "hills.",
+      "start": 191974,
+      "end": 192370,
+      "confidence": 0.39297,
+      "speaker": null
+    },
+    {
+      "text": "I",
+      "start": 192430,
+      "end": 192582,
+      "confidence": 1,
+      "speaker": null
+    },
+    {
+      "text": "am",
+      "start": 192596,
+      "end": 192738,
+      "confidence": 0.97,
+      "speaker": null
+    },
+    {
+      "text": "trained",
+      "start": 192764,
+      "end": 193042,
+      "confidence": 0.99526,
+      "speaker": null
+    },
+    {
+      "text": "in",
+      "start": 193066,
+      "end": 193218,
+      "confidence": 0.99831,
+      "speaker": null
+    },
+    {
+      "text": "guerrilla",
+      "start": 193244,
+      "end": 193582,
+      "confidence": 0.5144,
+      "speaker": null
+    },
+    {
+      "text": "warfare",
+      "start": 193606,
+      "end": 193918,
+      "confidence": 0.99604,
+      "speaker": null
+    },
+    {
+      "text": "and",
+      "start": 193954,
+      "end": 194118,
+      "confidence": 0.72,
+      "speaker": null
+    },
+    {
+      "text": "on",
+      "start": 194144,
+      "end": 194262,
+      "confidence": 0.5346,
+      "speaker": null
+    },
+    {
+      "text": "the",
+      "start": 194276,
+      "end": 194382,
+      "confidence": 0.98,
+      "speaker": null
+    },
+    {
+      "text": "top",
+      "start": 194396,
+      "end": 194538,
+      "confidence": 0.99987,
+      "speaker": null
+    },
+    {
+      "text": "sniper",
+      "start": 194564,
+      "end": 195010,
+      "confidence": 0.99788,
+      "speaker": null
+    },
+    {
+      "text": "and",
+      "start": 195070,
+      "end": 195222,
+      "confidence": 0.79,
+      "speaker": null
+    },
+    {
+      "text": "the",
+      "start": 195236,
+      "end": 195378,
+      "confidence": 0.98,
+      "speaker": null
+    },
+    {
+      "text": "entire",
+      "start": 195404,
+      "end": 195810,
+      "confidence": 0.99387,
+      "speaker": null
+    },
+    {
+      "text": "US.",
+      "start": 195920,
+      "end": 196230,
+      "confidence": 0.87,
+      "speaker": null
+    },
+    {
+      "text": "Armed",
+      "start": 196280,
+      "end": 196558,
+      "confidence": 0.67497,
+      "speaker": null
+    },
+    {
+      "text": "forces.",
+      "start": 196594,
+      "end": 196978,
+      "confidence": 0.99458,
+      "speaker": null
+    },
+    {
+      "text": "You",
+      "start": 197074,
+      "end": 197262,
+      "confidence": 0.99,
+      "speaker": null
+    },
+    {
+      "text": "are",
+      "start": 197276,
+      "end": 197418,
+      "confidence": 0.98191,
+      "speaker": null
+    },
+    {
+      "text": "nothing",
+      "start": 197444,
+      "end": 197634,
+      "confidence": 0.99923,
+      "speaker": null
+    },
+    {
+      "text": "to",
+      "start": 197672,
+      "end": 197802,
+      "confidence": 1,
+      "speaker": null
+    },
+    {
+      "text": "me",
+      "start": 197816,
+      "end": 197994,
+      "confidence": 0.99576,
+      "speaker": null
+    },
+    {
+      "text": "but",
+      "start": 198032,
+      "end": 198234,
+      "confidence": 0.75303,
+      "speaker": null
+    },
+    {
+      "text": "just",
+      "start": 198272,
+      "end": 198510,
+      "confidence": 0.99596,
+      "speaker": null
+    },
+    {
+      "text": "another",
+      "start": 198560,
+      "end": 198918,
+      "confidence": 0.99946,
+      "speaker": null
+    },
+    {
+      "text": "target",
+      "start": 199004,
+      "end": 199630,
+      "confidence": 0.98481,
+      "speaker": null
+    },
+    {
+      "text": "I",
+      "start": 199750,
+      "end": 199962,
+      "confidence": 0.99,
+      "speaker": null
+    },
+    {
+      "text": "will",
+      "start": 199976,
+      "end": 200118,
+      "confidence": 0.97,
+      "speaker": null
+    },
+    {
+      "text": "wipe.",
+      "start": 200144,
+      "end": 200290,
+      "confidence": 0.43742,
+      "speaker": null
+    }
+  ],
+  "utterances": null,
+  "confidence": 0.889386185381562,
+  "audio_duration": 210,
+  "punctuate": true,
+  "format_text": true,
+  "dual_channel": null,
+  "webhook_url": null,
+  "webhook_status_code": null,
+  "webhook_auth": false,
+  "webhook_auth_header_name": null,
+  "speed_boost": false,
+  "auto_highlights_result": null,
+  "auto_highlights": false,
+  "audio_start_from": null,
+  "audio_end_at": null,
+  "word_boost": [],
+  "boost_param": null,
+  "filter_profanity": false,
+  "redact_pii": false,
+  "redact_pii_audio": false,
+  "redact_pii_audio_quality": null,
+  "redact_pii_policies": null,
+  "redact_pii_sub": null,
+  "speaker_labels": false,
+  "content_safety": true,
+  "iab_categories": true,
+  "content_safety_labels": {
+    "status": "success",
+    "results": [
+      {
+        "text": "You'd have to be high while drugged in a Soviet interrogation if you still think that for sure. All around the country, citizens are protesting in cities now that no new art is permitted to be distributed or produced here without government approval. It's kind of impressive how much they bought this up. Literally everyone agrees that this is a terrible thing. Just wait till they call that art and then ran those protests to fucking Ethics Committee. It's censorship, I tell you. Censorship.",
+        "labels": [
+          {
+            "label": "drugs",
+            "confidence": 0.9716719388961792,
+            "severity": 0.38786742091178894
+          },
+          {
+            "label": "profanity",
+            "confidence": 0.9999634027481079,
+            "severity": 0.08570078015327454
+          },
+          {
+            "label": "nsfw",
+            "confidence": 0.9997069239616394,
+            "severity": null
+          }
+        ],
+        "timestamp": {
+          "start": 51994,
+          "end": 79350
+        }
+      },
+      {
+        "text": "What kind of ethical problems could you possibly have with art, of all things? You can call anything art. I'll eat my shoes isn't just another power grab. Um, incompetent dolls paid $100,000 a year to sit there poor. I think there is a reasonable way to approach this. The existing system was good enough. That law handles edics well for the most part. Nah, don't get me started on that pile of the law has its own problems with addicts.",
+        "labels": [
+          {
+            "label": "drugs",
+            "confidence": 0.9999823570251465,
+            "severity": 0.2827577292919159
+          }
+        ],
+        "timestamp": {
+          "start": 79850,
+          "end": 107734
+        }
+      },
+      {
+        "text": "But you're right, the frozen turd pile doesn't stain anywhere as much as the fresh, steaming ones that just came out. And as long as you aren't like a sociopathic Lego brick stabs people to paint their walls with blood, you're good at my book. Hypothetically, what is they consent to? That's a positive. I suppose it's got to be informed consent, too. Say we're dealing with a five year old, they ain't going to know anything.",
+        "labels": [
+          {
+            "label": "crime_violence",
+            "confidence": 0.5129220485687256,
+            "severity": 0.20830991864204407
+          }
+        ],
+        "timestamp": {
+          "start": 107842,
+          "end": 135954
+        }
+      },
+      {
+        "text": "If I see one person who lays a finger on a dog or cat or mouse and dares to hurt one mentally or physically I'll have you know I graduated top of my class in the Navy Seals, and I've been involved in numerous secret rates on Al Qaeda with over 300 confirmed hills. I am trained in guerrilla warfare and on the top sniper and the entire US. Armed forces. You are nothing to me but just another target I will wipe.",
+        "labels": [
+          {
+            "label": "terrorism",
+            "confidence": 0.9392106533050537,
+            "severity": 0.5942671298980713
+          }
+        ],
+        "timestamp": {
+          "start": 175070,
+          "end": 200290
+        }
+      }
+    ],
+    "summary": {
+      "drugs": 0.7546416359651139,
+      "profanity": 0.281352272686571,
+      "nsfw": 0.26219549356401606
+    },
+    "severity_score_summary": {
+      "drugs": {
+        "low": 0.5034250744675961,
+        "medium": 0.4965749255324039,
+        "high": 0
+      },
+      "profanity": {
+        "low": 1,
+        "medium": 0,
+        "high": 0
+      }
+    }
+  },
+  "iab_categories_result": {
+    "status": "success",
+    "results": [
+      {
+        "text": "Welcome back to the two Generic Personalities talking to Each Other show with EBC very own George and Donald. Another day, another recording session. Darn right. The way they treat us is that we don't think we're real people. What are you going to on today's menu, George? Is there anything else aside from the new bill they just passed? Nothing but censorship, that bill is. Why the would you want the government getting their dirty pot all over Art? I thought you say that.",
+        "labels": [
+          {
+            "relevance": 0.8229500651359558,
+            "label": "MusicAndAudio>TalkRadio"
+          },
+          {
+            "relevance": 0.09505283087491989,
+            "label": "Television>RealityTV"
+          },
+          {
+            "relevance": 0.09233114123344421,
+            "label": "MusicAndAudio>TalkRadio>EducationalRadio"
+          },
+          {
+            "relevance": 0.016682028770446777,
+            "label": "PopCulture>CelebrityScandal"
+          },
+          {
+            "relevance": 0.014860822819173336,
+            "label": "EventsAndAttractions>ComedyEvents"
+          },
+          {
+            "relevance": 0.01051891129463911,
+            "label": "Television>ComedyTV"
+          },
+          {
+            "relevance": 0.006885743699967861,
+            "label": "BusinessAndFinance>Industries>MediaIndustry"
+          },
+          {
+            "relevance": 0.005052502267062664,
+            "label": "Television>FactualTV"
+          },
+          {
+            "relevance": 0.0034355674870312214,
+            "label": "PopCulture"
+          },
+          {
+            "relevance": 0.003149073338136077,
+            "label": "Television>MusicTV"
+          }
+        ],
+        "timestamp": {
+          "start": 550,
+          "end": 27702
+        }
+      },
+      {
+        "text": "Now, in case you didn't already know, the Canadian government recently passed a bill requiring all art for the public to be approved by an edit committee. One, but her politician pretends to be offended and suddenly everyone's in chains. You only hear about things like this from school boards with immature 17 year old children. Yes, and there's a lot of outrage going around. Uh, to be honest, Donald, I thought the bill was initially passed in good faith. Good faith?",
+        "labels": [
+          {
+            "relevance": 0.845359742641449,
+            "label": "FineArt"
+          },
+          {
+            "relevance": 0.15935376286506653,
+            "label": "Style&Fashion>BodyArt"
+          },
+          {
+            "relevance": 0.12668448686599731,
+            "label": "FineArt>ModernArt"
+          },
+          {
+            "relevance": 0.04291132837533951,
+            "label": "BooksAndLiterature>ArtAndPhotographyBooks"
+          },
+          {
+            "relevance": 0.023123178631067276,
+            "label": "FineArt>DigitalArts"
+          },
+          {
+            "relevance": 0.012217048555612564,
+            "label": "Style&Fashion>Beauty"
+          },
+          {
+            "relevance": 0.008302855305373669,
+            "label": "FineArt>FineArtPhotography"
+          },
+          {
+            "relevance": 0.006173768080770969,
+            "label": "Hobbies&Interests>ArtsAndCrafts>Painting"
+          },
+          {
+            "relevance": 0.004460421856492758,
+            "label": "Hobbies&Interests>ArtsAndCrafts>DrawingAndSketching"
+          },
+          {
+            "relevance": 0.0035183592699468136,
+            "label": "HealthyLiving>Women'sHealth"
+          }
+        ],
+        "timestamp": {
+          "start": 27836,
+          "end": 51898
+        }
+      },
+      {
+        "text": "You'd have to be high while drugged in a Soviet interrogation if you still think that for sure. All around the country, citizens are protesting in cities now that no new art is permitted to be distributed or produced here without government approval. It's kind of impressive how much they bought this up. Literally everyone agrees that this is a terrible thing. Just wait till they call that art and then ran those protests to fucking Ethics Committee. It's censorship, I tell you. Censorship.",
+        "labels": [
+          {
+            "relevance": 0.9010513424873352,
+            "label": "Style&Fashion>BodyArt"
+          },
+          {
+            "relevance": 0.686974823474884,
+            "label": "FineArt>ModernArt"
+          },
+          {
+            "relevance": 0.5005804300308228,
+            "label": "FineArt"
+          },
+          {
+            "relevance": 0.2182532250881195,
+            "label": "BooksAndLiterature>ArtAndPhotographyBooks"
+          },
+          {
+            "relevance": 0.056704916059970856,
+            "label": "PopCulture"
+          },
+          {
+            "relevance": 0.027213316410779953,
+            "label": "FineArt>DigitalArts"
+          },
+          {
+            "relevance": 0.007716617081314325,
+            "label": "FineArt>FineArtPhotography"
+          },
+          {
+            "relevance": 0.005411463789641857,
+            "label": "Movies>DocumentaryMovies"
+          },
+          {
+            "relevance": 0.004146379418671131,
+            "label": "EventsAndAttractions>Museums&Galleries"
+          },
+          {
+            "relevance": 0.0033425334841012955,
+            "label": "Style&Fashion>Beauty"
+          }
+        ],
+        "timestamp": {
+          "start": 51994,
+          "end": 79350
+        }
+      },
+      {
+        "text": "What kind of ethical problems could you possibly have with art, of all things? You can call anything art. I'll eat my shoes isn't just another power grab. Um, incompetent dolls paid $100,000 a year to sit there poor. I think there is a reasonable way to approach this. The existing system was good enough. That law handles edics well for the most part. Nah, don't get me started on that pile of the law has its own problems with addicts.",
+        "labels": [
+          {
+            "relevance": 0.9689749479293823,
+            "label": "Style&Fashion>BodyArt"
+          },
+          {
+            "relevance": 0.9240453243255615,
+            "label": "FineArt"
+          },
+          {
+            "relevance": 0.4296601712703705,
+            "label": "FineArt>ModernArt"
+          },
+          {
+            "relevance": 0.06543410569429398,
+            "label": "FineArt>DigitalArts"
+          },
+          {
+            "relevance": 0.043764468282461166,
+            "label": "Hobbies&Interests>ArtsAndCrafts"
+          },
+          {
+            "relevance": 0.03520982339978218,
+            "label": "BooksAndLiterature>ArtAndPhotographyBooks"
+          },
+          {
+            "relevance": 0.023521918803453445,
+            "label": "Style&Fashion>Beauty"
+          },
+          {
+            "relevance": 0.015063951723277569,
+            "label": "EventsAndAttractions>Museums&Galleries"
+          },
+          {
+            "relevance": 0.01190189365297556,
+            "label": "PopCulture"
+          },
+          {
+            "relevance": 0.005903136450797319,
+            "label": "Hobbies&Interests>ModelToys"
+          }
+        ],
+        "timestamp": {
+          "start": 79850,
+          "end": 107734
+        }
+      },
+      {
+        "text": "But you're right, the frozen turd pile doesn't stain anywhere as much as the fresh, steaming ones that just came out. And as long as you aren't like a sociopathic Lego brick stabs people to paint their walls with blood, you're good at my book. Hypothetically, what is they consent to? That's a positive. I suppose it's got to be informed consent, too. Say we're dealing with a five year old, they ain't going to know anything.",
+        "labels": [
+          {
+            "relevance": 0.46119847893714905,
+            "label": "Hobbies&Interests>ModelToys"
+          },
+          {
+            "relevance": 0.37675249576568604,
+            "label": "Shopping>Children'sGamesAndToys"
+          },
+          {
+            "relevance": 0.02332410216331482,
+            "label": "FamilyAndRelationships>Parenting"
+          },
+          {
+            "relevance": 0.02173364907503128,
+            "label": "FamilyAndRelationships>Parenting>ParentingChildrenAged4-11"
+          },
+          {
+            "relevance": 0.008406456559896469,
+            "label": "FamilyAndRelationships>Parenting>ParentingBabiesAndToddlers"
+          },
+          {
+            "relevance": 0.005759170278906822,
+            "label": "MedicalHealth>DiseasesAndConditions>Injuries"
+          },
+          {
+            "relevance": 0.004032353404909372,
+            "label": "FamilyAndRelationships>Parenting>ParentingTeens"
+          },
+          {
+            "relevance": 0.0036438829265534878,
+            "label": "Style&Fashion>BodyArt"
+          },
+          {
+            "relevance": 0.0024988853838294744,
+            "label": "HealthyLiving>Children'sHealth"
+          },
+          {
+            "relevance": 0.001974991988390684,
+            "label": "VideoGaming>VideoGameGenres>EducationalVideoGames"
+          }
+        ],
+        "timestamp": {
+          "start": 107842,
+          "end": 135954
+        }
+      },
+      {
+        "text": "But if a man is 90 years old, call it euthanasia. Yes, I agree completely. You do see people complaining about things less personal, too, like, um, attacking people's reputations. So m, what if people get offended if I tell the truth? Writing an angry song about the shriveled grapefruits in office? Why the flying would I need consent for that? Everyone and their Karen have been writing blogs like that for years. And guess what? No one cares.",
+        "labels": [
+          {
+            "relevance": 0.22692684829235077,
+            "label": "HealthyLiving>SeniorHealth"
+          },
+          {
+            "relevance": 0.06479929387569427,
+            "label": "FamilyAndRelationships>Eldercare"
+          },
+          {
+            "relevance": 0.03530311584472656,
+            "label": "FamilyAndRelationships>Bereavement"
+          },
+          {
+            "relevance": 0.008829860016703606,
+            "label": "PersonalFinance>RetirementPlanning"
+          },
+          {
+            "relevance": 0.003583705984055996,
+            "label": "PopCulture>CelebrityDeaths"
+          },
+          {
+            "relevance": 0.0033961974550038576,
+            "label": "HealthyLiving>Men'sHealth"
+          },
+          {
+            "relevance": 0.0027459634002298117,
+            "label": "MedicalHealth>DiseasesAndConditions>MentalHealth"
+          },
+          {
+            "relevance": 0.002410522196441889,
+            "label": "Hobbies&Interests>ContentProduction"
+          },
+          {
+            "relevance": 0.0015651725698262453,
+            "label": "PersonalFinance>Insurance>LifeInsurance"
+          },
+          {
+            "relevance": 0.0014426528941839933,
+            "label": "Technology&Computing>Computing>Internet>SocialNetworking"
+          }
+        ],
+        "timestamp": {
+          "start": 136112,
+          "end": 162070
+        }
+      },
+      {
+        "text": "Everyone is perfectly fine. The Internet will crucify you if you try to do that. And it's rude to post it in public, but I wouldn't stop anyone from trying. How about animals? Where do you draw the line?",
+        "labels": [
+          {
+            "relevance": 0.6713349223136902,
+            "label": "Pets"
+          },
+          {
+            "relevance": 0.19449833035469055,
+            "label": "Pets>PetAdoptions"
+          },
+          {
+            "relevance": 0.013159262016415596,
+            "label": "Pets>LargeAnimals"
+          },
+          {
+            "relevance": 0.0077159409411251545,
+            "label": "Pets>Cats"
+          },
+          {
+            "relevance": 0.0034056114964187145,
+            "label": "Sports>HuntingAndShooting"
+          },
+          {
+            "relevance": 0.003357055364176631,
+            "label": "Pets>Dogs"
+          },
+          {
+            "relevance": 0.0012581964256241918,
+            "label": "PersonalFinance>Insurance>PetInsurance"
+          },
+          {
+            "relevance": 0.0010341558372601867,
+            "label": "EventsAndAttractions>Zoos&Aquariums"
+          },
+          {
+            "relevance": 0.0009020115830935538,
+            "label": "Sports>EquineSports"
+          },
+          {
+            "relevance": 0.0005730106495320797,
+            "label": "Pets>VeterinaryMedicine"
+          }
+        ],
+        "timestamp": {
+          "start": 162190,
+          "end": 174140
+        }
+      },
+      {
+        "text": "If I see one person who lays a finger on a dog or cat or mouse and dares to hurt one mentally or physically I'll have you know I graduated top of my class in the Navy Seals, and I've been involved in numerous secret rates on Al Qaeda with over 300 confirmed hills. I am trained in guerrilla warfare and on the top sniper and the entire US. Armed forces. You are nothing to me but just another target I will wipe.",
+        "labels": [
+          {
+            "relevance": 0.23129945993423462,
+            "label": "Pets>Dogs"
+          },
+          {
+            "relevance": 0.11412761360406876,
+            "label": "Pets"
+          },
+          {
+            "relevance": 0.03650557994842529,
+            "label": "Sports>HuntingAndShooting"
+          },
+          {
+            "relevance": 0.007559827528893948,
+            "label": "Pets>Cats"
+          },
+          {
+            "relevance": 0.007128006312996149,
+            "label": "Pets>PetAdoptions"
+          },
+          {
+            "relevance": 0.005037556868046522,
+            "label": "Pets>VeterinaryMedicine"
+          },
+          {
+            "relevance": 0.0033388424199074507,
+            "label": "NewsAndPolitics>Crime"
+          },
+          {
+            "relevance": 0.0019224965944886208,
+            "label": "Sports>ExtremeSports>Paintball"
+          },
+          {
+            "relevance": 0.000947501219343394,
+            "label": "Technology&Computing>Robotics"
+          },
+          {
+            "relevance": 0.00079907983308658,
+            "label": "PersonalFinance>Insurance>PetInsurance"
+          }
+        ],
+        "timestamp": {
+          "start": 175070,
+          "end": 200290
+        }
+      }
+    ],
+    "summary": {
+      "FineArt": 1,
+      "Style&Fashion>BodyArt": 0.8959293365478516,
+      "FineArt>ModernArt": 0.5477291345596313,
+      "MusicAndAudio>TalkRadio": 0.36260125041007996,
+      "Pets": 0.34613916277885437,
+      "Hobbies&Interests>ModelToys": 0.20577934384346008,
+      "Shopping>Children'sGamesAndToys": 0.16744253039360046,
+      "BooksAndLiterature>ArtAndPhotographyBooks": 0.13126260042190552,
+      "Pets>Dogs": 0.10358597338199615,
+      "HealthyLiving>SeniorHealth": 0.10004586726427078,
+      "Pets>PetAdoptions": 0.08893236517906189,
+      "FineArt>DigitalArts": 0.051363784819841385,
+      "Television>RealityTV": 0.042008642107248306,
+      "MusicAndAudio>TalkRadio>EducationalRadio": 0.040949635207653046,
+      "PopCulture": 0.032022953033447266,
+      "FamilyAndRelationships>Eldercare": 0.028618285432457924,
+      "Hobbies&Interests>ArtsAndCrafts": 0.021708974614739418,
+      "Style&Fashion>Beauty": 0.017696261405944824,
+      "Sports>HuntingAndShooting": 0.01768321357667446,
+      "FamilyAndRelationships>Bereavement": 0.016129616647958755
+    }
+  },
+  "language_detection": true,
+  "custom_spelling": null,
+  "cluster_id": null,
+  "throttled": null,
+  "disfluencies": true,
+  "sentiment_analysis": true,
+  "auto_chapters": false,
+  "chapters": null,
+  "sentiment_analysis_results": [
+    {
+      "text": "Welcome back to the two Generic Personalities talking to Each Other show with EBC very own George and Donald.",
+      "start": 550,
+      "end": 6990,
+      "sentiment": "POSITIVE",
+      "confidence": 0.7850961089134216,
+      "speaker": null
+    },
+    {
+      "text": "Another day, another recording session.",
+      "start": 8270,
+      "end": 10882,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.8298439383506775,
+      "speaker": null
+    },
+    {
+      "text": "Darn right.",
+      "start": 11026,
+      "end": 11802,
+      "sentiment": "NEGATIVE",
+      "confidence": 0.5686772465705872,
+      "speaker": null
+    },
+    {
+      "text": "The way they treat us is that we don't think we're real people.",
+      "start": 11876,
+      "end": 14322,
+      "sentiment": "NEGATIVE",
+      "confidence": 0.9293956756591797,
+      "speaker": null
+    },
+    {
+      "text": "What are you going to on today's menu, George?",
+      "start": 14456,
+      "end": 16258,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.9470885992050171,
+      "speaker": null
+    },
+    {
+      "text": "Is there anything else aside from the new bill they just passed?",
+      "start": 16414,
+      "end": 19282,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.8287878632545471,
+      "speaker": null
+    },
+    {
+      "text": "Nothing but censorship, that bill is.",
+      "start": 19426,
+      "end": 21690,
+      "sentiment": "NEGATIVE",
+      "confidence": 0.8379320502281189,
+      "speaker": null
+    },
+    {
+      "text": "Why the would you want the government getting their dirty pot all over Art?",
+      "start": 21740,
+      "end": 25580,
+      "sentiment": "NEGATIVE",
+      "confidence": 0.865570604801178,
+      "speaker": null
+    },
+    {
+      "text": "I thought you say that.",
+      "start": 26390,
+      "end": 27702,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.6467939019203186,
+      "speaker": null
+    },
+    {
+      "text": "Now, in case you didn't already know, the Canadian government recently passed a bill requiring all art for the public to be approved by an edit committee.",
+      "start": 27836,
+      "end": 35430,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.8499550223350525,
+      "speaker": null
+    },
+    {
+      "text": "One, but her politician pretends to be offended and suddenly everyone's in chains.",
+      "start": 35870,
+      "end": 40186,
+      "sentiment": "NEGATIVE",
+      "confidence": 0.6305217742919922,
+      "speaker": null
+    },
+    {
+      "text": "You only hear about things like this from school boards with immature 17 year old children.",
+      "start": 40258,
+      "end": 44730,
+      "sentiment": "NEGATIVE",
+      "confidence": 0.812376856803894,
+      "speaker": null
+    },
+    {
+      "text": "Yes, and there's a lot of outrage going around.",
+      "start": 44900,
+      "end": 47322,
+      "sentiment": "NEGATIVE",
+      "confidence": 0.6376016139984131,
+      "speaker": null
+    },
+    {
+      "text": "Uh, to be honest, Donald, I thought the bill was initially passed in good faith.",
+      "start": 47322,
+      "end": 50670,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.7359715104103088,
+      "speaker": null
+    },
+    {
+      "text": "Good faith?",
+      "start": 50990,
+      "end": 51898,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.8525773286819458,
+      "speaker": null
+    },
+    {
+      "text": "You'd have to be high while drugged in a Soviet interrogation if you still think that for sure.",
+      "start": 51994,
+      "end": 57666,
+      "sentiment": "NEGATIVE",
+      "confidence": 0.5840627551078796,
+      "speaker": null
+    },
+    {
+      "text": "All around the country, citizens are protesting in cities now that no new art is permitted to be distributed or produced here without government approval.",
+      "start": 57788,
+      "end": 64522,
+      "sentiment": "NEGATIVE",
+      "confidence": 0.8044490218162537,
+      "speaker": null
+    },
+    {
+      "text": "It's kind of impressive how much they bought this up.",
+      "start": 64606,
+      "end": 67218,
+      "sentiment": "POSITIVE",
+      "confidence": 0.8282193541526794,
+      "speaker": null
+    },
+    {
+      "text": "Literally everyone agrees that this is a terrible thing.",
+      "start": 67364,
+      "end": 70580,
+      "sentiment": "NEGATIVE",
+      "confidence": 0.924860954284668,
+      "speaker": null
+    },
+    {
+      "text": "Just wait till they call that art and then ran those protests to fucking Ethics Committee.",
+      "start": 71390,
+      "end": 76642,
+      "sentiment": "NEGATIVE",
+      "confidence": 0.8881500959396362,
+      "speaker": null
+    },
+    {
+      "text": "It's censorship, I tell you.",
+      "start": 76726,
+      "end": 78306,
+      "sentiment": "NEGATIVE",
+      "confidence": 0.8386358618736267,
+      "speaker": null
+    },
+    {
+      "text": "Censorship.",
+      "start": 78428,
+      "end": 79350,
+      "sentiment": "NEGATIVE",
+      "confidence": 0.8486725687980652,
+      "speaker": null
+    },
+    {
+      "text": "What kind of ethical problems could you possibly have with art, of all things?",
+      "start": 79850,
+      "end": 84474,
+      "sentiment": "NEGATIVE",
+      "confidence": 0.7688872814178467,
+      "speaker": null
+    },
+    {
+      "text": "You can call anything art.",
+      "start": 84572,
+      "end": 85974,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.6394290924072266,
+      "speaker": null
+    },
+    {
+      "text": "I'll eat my shoes isn't just another power grab.",
+      "start": 86072,
+      "end": 88966,
+      "sentiment": "NEGATIVE",
+      "confidence": 0.696290135383606,
+      "speaker": null
+    },
+    {
+      "text": "Um, incompetent dolls paid $100,000 a year to sit there poor.",
+      "start": 89060,
+      "end": 94642,
+      "sentiment": "NEGATIVE",
+      "confidence": 0.9526048898696899,
+      "speaker": null
+    },
+    {
+      "text": "I think there is a reasonable way to approach this.",
+      "start": 94786,
+      "end": 97194,
+      "sentiment": "POSITIVE",
+      "confidence": 0.5195710062980652,
+      "speaker": null
+    },
+    {
+      "text": "The existing system was good enough.",
+      "start": 97352,
+      "end": 99102,
+      "sentiment": "POSITIVE",
+      "confidence": 0.5700987577438354,
+      "speaker": null
+    },
+    {
+      "text": "That law handles edics well for the most part.",
+      "start": 99296,
+      "end": 102320,
+      "sentiment": "POSITIVE",
+      "confidence": 0.6277304887771606,
+      "speaker": null
+    },
+    {
+      "text": "Nah, don't get me started on that pile of the law has its own problems with addicts.",
+      "start": 102710,
+      "end": 107734,
+      "sentiment": "NEGATIVE",
+      "confidence": 0.8020802736282349,
+      "speaker": null
+    },
+    {
+      "text": "But you're right, the frozen turd pile doesn't stain anywhere as much as the fresh, steaming ones that just came out.",
+      "start": 107842,
+      "end": 113742,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.43955016136169434,
+      "speaker": null
+    },
+    {
+      "text": "And as long as you aren't like a sociopathic Lego brick stabs people to paint their walls with blood, you're good at my book.",
+      "start": 113816,
+      "end": 120980,
+      "sentiment": "NEGATIVE",
+      "confidence": 0.5866615772247314,
+      "speaker": null
+    },
+    {
+      "text": "Hypothetically, what is they consent to?",
+      "start": 122270,
+      "end": 126440,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.7802164554595947,
+      "speaker": null
+    },
+    {
+      "text": "That's a positive.",
+      "start": 126950,
+      "end": 128370,
+      "sentiment": "POSITIVE",
+      "confidence": 0.9125370383262634,
+      "speaker": null
+    },
+    {
+      "text": "I suppose it's got to be informed consent, too.",
+      "start": 129590,
+      "end": 132150,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.8374295234680176,
+      "speaker": null
+    },
+    {
+      "text": "Say we're dealing with a five year old, they ain't going to know anything.",
+      "start": 132320,
+      "end": 135954,
+      "sentiment": "NEGATIVE",
+      "confidence": 0.6120962500572205,
+      "speaker": null
+    },
+    {
+      "text": "But if a man is 90 years old, call it euthanasia.",
+      "start": 136112,
+      "end": 139186,
+      "sentiment": "NEGATIVE",
+      "confidence": 0.7563817501068115,
+      "speaker": null
+    },
+    {
+      "text": "Yes, I agree completely.",
+      "start": 139318,
+      "end": 141270,
+      "sentiment": "POSITIVE",
+      "confidence": 0.8273574113845825,
+      "speaker": null
+    },
+    {
+      "text": "You do see people complaining about things less personal, too, like, um, attacking people's reputations.",
+      "start": 141440,
+      "end": 147810,
+      "sentiment": "NEGATIVE",
+      "confidence": 0.7712128162384033,
+      "speaker": null
+    },
+    {
+      "text": "So m, what if people get offended if I tell the truth?",
+      "start": 148250,
+      "end": 150934,
+      "sentiment": "NEGATIVE",
+      "confidence": 0.5415455102920532,
+      "speaker": null
+    },
+    {
+      "text": "Writing an angry song about the shriveled grapefruits in office?",
+      "start": 150982,
+      "end": 153618,
+      "sentiment": "NEGATIVE",
+      "confidence": 0.7785356640815735,
+      "speaker": null
+    },
+    {
+      "text": "Why the flying would I need consent for that?",
+      "start": 153704,
+      "end": 156066,
+      "sentiment": "NEGATIVE",
+      "confidence": 0.707901656627655,
+      "speaker": null
+    },
+    {
+      "text": "Everyone and their Karen have been writing blogs like that for years.",
+      "start": 156188,
+      "end": 159582,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.783481240272522,
+      "speaker": null
+    },
+    {
+      "text": "And guess what?",
+      "start": 159656,
+      "end": 160710,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.598969042301178,
+      "speaker": null
+    },
+    {
+      "text": "No one cares.",
+      "start": 160880,
+      "end": 162070,
+      "sentiment": "NEGATIVE",
+      "confidence": 0.7321764230728149,
+      "speaker": null
+    },
+    {
+      "text": "Everyone is perfectly fine.",
+      "start": 162190,
+      "end": 163722,
+      "sentiment": "POSITIVE",
+      "confidence": 0.7884979844093323,
+      "speaker": null
+    },
+    {
+      "text": "The Internet will crucify you if you try to do that.",
+      "start": 163796,
+      "end": 166290,
+      "sentiment": "NEGATIVE",
+      "confidence": 0.9202557802200317,
+      "speaker": null
+    },
+    {
+      "text": "And it's rude to post it in public, but I wouldn't stop anyone from trying.",
+      "start": 166340,
+      "end": 170360,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.48802515864372253,
+      "speaker": null
+    },
+    {
+      "text": "How about animals?",
+      "start": 171350,
+      "end": 172630,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.7239943742752075,
+      "speaker": null
+    },
+    {
+      "text": "Where do you draw the line?",
+      "start": 172810,
+      "end": 174140,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.7572346925735474,
+      "speaker": null
+    },
+    {
+      "text": "If I see one person who lays a finger on a dog or cat or mouse and dares to hurt one mentally or physically I'll have you know I graduated top of my class in the Navy Seals, and I've been involved in numerous secret rates on Al Qaeda with over 300 confirmed hills.",
+      "start": 175070,
+      "end": 192370,
+      "sentiment": "NEGATIVE",
+      "confidence": 0.579651951789856,
+      "speaker": null
+    },
+    {
+      "text": "I am trained in guerrilla warfare and on the top sniper and the entire US.",
+      "start": 192430,
+      "end": 196230,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.56899493932724,
+      "speaker": null
+    },
+    {
+      "text": "Armed forces.",
+      "start": 196280,
+      "end": 196978,
+      "sentiment": "NEUTRAL",
+      "confidence": 0.6103309988975525,
+      "speaker": null
+    },
+    {
+      "text": "You are nothing to me but just another target I will wipe.",
+      "start": 197074,
+      "end": 200290,
+      "sentiment": "NEGATIVE",
+      "confidence": 0.8910476565361023,
+      "speaker": null
+    }
+  ],
+  "entity_detection": true,
+  "entities": [
+    {
+      "entity_type": "organization",
+      "text": "EBC",
+      "start": 4112,
+      "end": 4534
+    },
+    {
+      "entity_type": "person_name",
+      "text": "George",
+      "start": 5276,
+      "end": 5746
+    },
+    {
+      "entity_type": "person_name",
+      "text": "Donald",
+      "start": 6188,
+      "end": 6990
+    },
+    {
+      "entity_type": "person_name",
+      "text": "George",
+      "start": 15586,
+      "end": 16258
+    },
+    {
+      "entity_type": "organization",
+      "text": "Canadian government",
+      "start": 30212,
+      "end": 30882
+    },
+    {
+      "entity_type": "organization",
+      "text": "edit committee",
+      "start": 34436,
+      "end": 35430
+    },
+    {
+      "entity_type": "occupation",
+      "text": "politician",
+      "start": 36644,
+      "end": 37186
+    },
+    {
+      "entity_type": "person_age",
+      "text": "17",
+      "start": 43234,
+      "end": 43654
+    },
+    {
+      "entity_type": "person_name",
+      "text": "Donald",
+      "start": 48140,
+      "end": 48454
+    },
+    {
+      "entity_type": "nationality",
+      "text": "Soviet",
+      "start": 54056,
+      "end": 54382
+    },
+    {
+      "entity_type": "organization",
+      "text": "Ethics Committee",
+      "start": 75754,
+      "end": 76642
+    },
+    {
+      "entity_type": "money_amount",
+      "text": "100,000",
+      "start": 91592,
+      "end": 92658
+    },
+    {
+      "entity_type": "medical_condition",
+      "text": "addicts",
+      "start": 107132,
+      "end": 107734
+    },
+    {
+      "entity_type": "medical_condition",
+      "text": "sociopathic",
+      "start": 115244,
+      "end": 115918
+    },
+    {
+      "entity_type": "person_age",
+      "text": "five",
+      "start": 133316,
+      "end": 133494
+    },
+    {
+      "entity_type": "person_age",
+      "text": "90",
+      "start": 136916,
+      "end": 137130
+    },
+    {
+      "entity_type": "medical_process",
+      "text": "euthanasia",
+      "start": 138356,
+      "end": 139186
+    },
+    {
+      "entity_type": "person_name",
+      "text": "m",
+      "start": 148578,
+      "end": 148604
+    },
+    {
+      "entity_type": "person_name",
+      "text": "Karen",
+      "start": 157232,
+      "end": 157594
+    },
+    {
+      "entity_type": "organization",
+      "text": "Navy Seals",
+      "start": 186836,
+      "end": 187450
+    },
+    {
+      "entity_type": "organization",
+      "text": "Al Qaeda",
+      "start": 189824,
+      "end": 190318
+    },
+    {
+      "entity_type": "occupation",
+      "text": "sniper",
+      "start": 194564,
+      "end": 195010
+    },
+    {
+      "entity_type": "organization",
+      "text": "US. Armed",
+      "start": 195920,
+      "end": 196558
+    }
+  ]
+}
