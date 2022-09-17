@@ -22,6 +22,7 @@ export default function useAssemblyData(id: string) {
       if (data.status === "completed") {
         setLoading(false);
         setData(data);
+        clearInterval(timer);
       } else if (data.status === "error") {
         setLoading(false);
         setData(undefined);
