@@ -5,6 +5,8 @@ import { useHistory } from "react-router-dom";
 export function FilePicker() {
   const history = useHistory();
   const [file, setFile] = useState<File>();
+  const [submitted, setSubmitted] = useState<boolean>(false)
+
 
   async function onFileChange(event: any) {
     setFile(event.target.files[0]);
@@ -18,6 +20,7 @@ export function FilePicker() {
     formData.append("file", file);
     formData.append("filename", file.name);
 
+    setSubmitted(true)
     const data = await uploadFile(file);
     history.push(`/view?id=${data.id}`);
   }
@@ -27,7 +30,7 @@ export function FilePicker() {
     <form onSubmit={handleSubmit}>
       <h2>Select an audio or video file!</h2>
       <input type="file" accept={acceptedFormats} onChange={onFileChange} />
-      <button disabled={!file} type="submit">Upload</button>
+      <button disabled={!file || submitted} type="submit">{submitted ? "Loading" : "Upload"}</button>
     </form>
   );
 }
