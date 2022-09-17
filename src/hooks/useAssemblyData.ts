@@ -42,24 +42,65 @@ export default function useAssemblyData(id: string) {
   return { loading, data, error };
 }
 
-interface AssemblyData {
-  acoustic_model: string;
+export type ContentSafeties =
+  | "accidents"
+  | "alcohol"
+  | "financials"
+  | "crime_violence"
+  | "drugs"
+  | "gambling"
+  | "hate_speech"
+  | "health_issues"
+  | "manga"
+  | "marijuana"
+  | "disasters"
+  | "negative_news"
+  | "nsfw"
+  | "pornography"
+  | "profanity"
+  | "sensitive_social_issues"
+  | "terrorism"
+  | "tobacco"
+  | "weapons";
+
+export interface AssemblyData {
+  //acoustic_model: string;
   audio_duration: number;
   audio_url: string;
   confidence: number;
-  dual_channel: any;
-  format_text: boolean;
+  //dual_channel: any;
+  //format_text: boolean;
   id: string;
-  language_model: string;
-  punctuate: boolean;
+  //language_model: string;
+  //punctuate: boolean;
   status: "completed" | "processing" | "queued" | "error";
   text: string;
-  utterances: any;
-  webhook_status_code: any;
-  webhook_url: string;
+  //utterances: any;
+  //webhook_status_code: any;
+  //webhook_url: string;
   words: AssemblyWord[];
+  content_safety_labels: {
+    status: "success" | "failure";
+    //results: [];
+    summary: Record<ContentSafeties, number>;
+  };
+  severity_score_summary: Record<
+    ContentSafeties,
+    {
+      low: number;
+      medium: number;
+      high: number;
+    }
+  >;
+  sentiment_analysis_results: SentenceSentiment[];
 }
-interface AssemblyWord {
+
+export interface SentenceSentiment {
+  sentiment: "POSITIVE" | "NEGATIVE" | "NEUTRAL";
+  text: string;
+  confidence: number;
+}
+export interface AssemblyWord {
   confidence: number;
   end: number;
   start: number;
