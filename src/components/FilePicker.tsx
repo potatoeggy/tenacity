@@ -19,7 +19,7 @@ export function FilePicker() {
     formData.append("filename", file.name);
 
     const data = await uploadFile(file);
-    history.push(`/view?id=${data.id}`);
+    history.push(`/view?id=${data.id}&size=${file.size}`);
   }
   const acceptedFormats = ".3ga, .8svx, .aac, .ac3, .aif, .aiff, .alac, .amr, .ape, .au, .dss, .flac, .flv, .m4a, .m4b, .m4p, .m4r, .mp3, .mpga, .ogg, .oga, .mogg, .opus, .qcp, .tta, .voc, .wav, .wma, .wv, .webm, .MTS, .M2TS, .TS, .mov, .mp2, .mp4, .m4p, .m4v, .mxf"
 

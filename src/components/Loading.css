@@ -1,0 +1,10 @@
+::-webkit-progress-value {
+  transition: width 1s;
+}
+
+::-moz-progress-bar {
+  transition: width 1s;
+}
+
+progress {
+}
