@@ -2,7 +2,6 @@ import axios from "axios";
 const API_ENDPOINT = "https://api.assemblyai.com/v2";
 
 export function getUploadUrlAxios(file: File) {
-  console.log("env", import.meta.env.VITE_AI_API_KEY);
   return axios.create({
     baseURL: API_ENDPOINT,
     headers: {
