@@ -5,8 +5,6 @@ import './index.css'
 import { FilePicker } from './components/FilePicker'
 
 function App() {
-  const [count, setCount] = useState(0)
-
   return (
     <div className="App">
       <FilePicker />
