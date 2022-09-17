@@ -27,13 +27,9 @@ export async function uploadFile(file: File) {
   const {
     data: { upload_url },
   }: Record<string, any> = await assembly.post("/upload", file);
-
-  console.log("url", upload_url);
-
   const assemblyTrans = getTranscriptAxios(upload_url);
   const res: Record<string, any> = await assemblyTrans.post("/transcript", {
     audio_url: upload_url,
   });
-  console.log(res);
-  return;
+  return res.data;
 }

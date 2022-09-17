@@ -1,8 +1,9 @@
-import axios from "axios";
 import { useState } from "react";
 import { uploadFile } from "../utils/api";
+import { useHistory } from "react-router-dom";
 
 export function FilePicker() {
+  const history = useHistory();
   const [file, setFile] = useState<File>();
 
   async function onFileChange(event: any) {
@@ -17,7 +18,8 @@ export function FilePicker() {
     formData.append("file", file);
     formData.append("filename", file.name);
 
-    await uploadFile(file);
+    const data = await uploadFile(file);
+    history.push(`/view?id=${data.id}`);
   }
 
   return (
