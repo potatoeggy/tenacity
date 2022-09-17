@@ -27,7 +27,7 @@ export function FilePicker() {
     <form onSubmit={handleSubmit}>
       <h2>Select an audio or video file!</h2>
       <input type="file" accept={acceptedFormats} onChange={onFileChange} />
-      <button type="submit">Upload</button>
+      <button disabled={!file} type="submit">Upload</button>
     </form>
   );
 }
