@@ -1,31 +1,30 @@
-import { useState } from "react"
+import axios from "axios";
+import { useState } from "react";
+import { uploadFile } from "../utils/api";
 
 export function FilePicker() {
-    const [file, setFile] = useState<File>()
+  const [file, setFile] = useState<File>();
 
-    function onFileChange(event: any) {
-        setFile(event.target.files[0])
-    }
+  async function onFileChange(event: any) {
+    setFile(event.target.files[0]);
+  }
 
-    function handleSubmit(event: any) {
-        if (!file) return;
-        event.preventDefault()
-        const formData = new FormData()
-        formData.append("file", file)
-        formData.append("filename", file.name)
+  async function handleSubmit(event: any) {
+    if (!file) return;
+    event.preventDefault();
 
-        const config = {
-            headers: {
-                "content-type": "multipart/form-data"
-            }
-        }
-    }
+    const formData = new FormData();
+    formData.append("file", file);
+    formData.append("filename", file.name);
 
-    return (
-        <form onSubmit={handleSubmit}>
-            <h2>Select an audio or video file!</h2>
-            <input type="file" onChange={onFileChange} />
-            <button type="submit">Upload</button>
-        </form>
-    )
+    await uploadFile(file);
+  }
+
+  return (
+    <form onSubmit={handleSubmit}>
+      <h2>Select an audio or video file!</h2>
+      <input type="file" onChange={onFileChange} />
+      <button type="submit">Upload</button>
+    </form>
+  );
 }
