@@ -30,6 +30,12 @@ export async function uploadFile(file: File) {
   const assemblyTrans = getTranscriptAxios(upload_url);
   const res: Record<string, any> = await assemblyTrans.post("/transcript", {
     audio_url: upload_url,
+    disfluencies: true,
+    language_detection: true,
+    content_safety: true,
+    iab_categories: true,
+    sentiment_analysis: true,
+    entity_detection: true
   });
   return res.data;
 }
