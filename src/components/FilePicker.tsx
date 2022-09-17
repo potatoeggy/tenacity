@@ -1,6 +1,7 @@
 import { useState } from "react";
 import { uploadFile } from "../utils/api";
 import { useHistory } from "react-router-dom";
+import './components.css';
 
 export function FilePicker() {
   const history = useHistory();
@@ -28,9 +29,14 @@ export function FilePicker() {
 
   return (
     <form onSubmit={handleSubmit}>
-      <h2>Select an audio or video file!</h2>
-      <input type="file" accept={acceptedFormats} onChange={onFileChange} />
-      <button disabled={!file || submitted} type="submit">{submitted ? "Loading" : "Upload"}</button>
+      <div className="header1">Select an audio or video file!</div>
+      <label className="container2">
+        <input type="file" style={{display:"none"}} accept={acceptedFormats} onChange={onFileChange}/>
+        <div className="button2">Choose File</div>
+        <div className="header2">Custom Upload</div>
+        <button type="submit" className="button1" disabled={!file || submitted}>{submitted ? "Loading" : "Upload"}</button>
+      </label>
+     
     </form>
   );
 }
