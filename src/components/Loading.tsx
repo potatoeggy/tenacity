@@ -2,25 +2,32 @@ import { useEffect, useState } from "react";
 import "./Loading.css";
 
 export default function LoadingScreen() {
-  const [progress, setProgress] = useState(0);
+  const [progress, setProgress] = useState(2);
   useEffect(() => {
     const params = new URLSearchParams(document.location.search);
-    const paramId = parseInt(params.get("size") ?? "0");
 
     const timer = setInterval(() => {
-      setProgress((p) => p + 2);
-
-      if (progress < 200 && Math.random() < 0.5) {
-        setProgress((p) => p - 2);
-      }
-    }, 5);
+      if (progress >= 99) return;
+      setProgress((p) => p + (100 - p) / 5);
+    }, 1000);
     return () => clearInterval(timer);
   });
 
-  const style = ".";
   return (
-    <div>
-      <progress max="400" value={progress}></progress>
+    <div style={{ width: "20rem" }}>
+      <div
+        style={{
+          width: "100%",
+          background: `linear-gradient(pink, pink) 0 / ${progress}% 100% no-repeat #ccc`,
+          height: "2rem",
+          display: "flex",
+          alignItems: "center",
+          justifyContent: "center",
+          transition: "1s all ease-out",
+        }}
+      >
+        Processing {Math.round(progress) + "%"}
+      </div>
       <style scoped></style>
     </div>
   );
