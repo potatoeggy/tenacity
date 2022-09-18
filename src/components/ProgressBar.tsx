@@ -1,11 +1,8 @@
 import { useEffect, useState } from "react";
-import "./Loading.css";
 
-export default function LoadingScreen() {
+export default function ProgressBar() {
   const [progress, setProgress] = useState(2);
   useEffect(() => {
-    const params = new URLSearchParams(document.location.search);
-
     const timer = setInterval(() => {
       if (progress >= 99) return;
       setProgress((p) => p + (100 - p) / 5);

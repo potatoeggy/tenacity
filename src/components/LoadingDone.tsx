@@ -9,10 +9,11 @@ const Container = styled.div`
   justify-content: space-between;
 `;
 
+// pace
+// filler words
+// no-no topics
+// sentiment
+
 export default function LoadingDone() {
-  return (
-    <Container>
-      <div></div>
-    </Container>
-  );
+  return <Container></Container>;
 }

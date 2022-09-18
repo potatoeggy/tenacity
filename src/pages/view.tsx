@@ -1,5 +1,5 @@
 import React from "react";
-import LoadingScreen from "../components/Loading";
+import ProgressBar from "../components/ProgressBar";
 import LoadingDone from "../components/LoadingDone";
 import useAssemblyData from "../hooks/useAssemblyData";
 
@@ -31,7 +31,7 @@ const View = () => {
     <div>
       {loading && (
         <div>
-          <LoadingScreen />
+          <ProgressBar />
         </div>
       )}
       {data && <LoadingDone />}

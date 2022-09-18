@@ -1,6 +1,6 @@
 import React from "react";
 import { FilePicker } from "../components/FilePicker";
-import LoadingScreen from "../components/Loading";
+import ProgressBar from "../components/ProgressBar";
 import "./pages.css";
 import ParticlesBg from "particles-bg";
 
