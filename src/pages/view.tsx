@@ -35,7 +35,7 @@ const View = () => {
           <ApiWait />
         </div>
       )}
-      {data && <LoadingDone />}
+      {data && <LoadingDone data={data} />}
       {error && <div>error</div>}
       <style scoped></style>
     </div>
