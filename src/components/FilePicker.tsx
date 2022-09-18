@@ -31,13 +31,21 @@ export function FilePicker() {
     <form
       className="flex flex-col items-start"
       onSubmit={handleSubmit}
-      style={{ gap: "1rem", display: "flex", flexDirection: "column" }}
+      style={{
+        gap: "1rem",
+        display: "flex",
+        flexDirection: "column",
+      }}
     >
       <div className="header1">Select an audio or video file!</div>
       <label
         className="container2"
         style={{
           alignItems: "start",
+          display: "flex",
+          justifyContent: "space-between",
+          paddingLeft: "3rem",
+          paddingRight: "3rem",
         }}
       >
         <input
@@ -50,7 +58,12 @@ export function FilePicker() {
         <div className="button2">Choose File</div>
       </label>
       <div
-        style={{ display: "flex", justifyContent: "flex-end", width: "100%" }}
+        style={{
+          display: "flex",
+          justifyContent: "flex-end",
+          width: "100%",
+          paddingRight: "3rem",
+        }}
       >
         <button type="submit" className="button1" disabled={!file || submitted}>
           {submitted ? "Loading" : "Upload"}

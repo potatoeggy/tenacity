@@ -2,6 +2,7 @@ import React from "react";
 import ProgressBar from "../components/ProgressBar";
 import LoadingDone from "../components/LoadingDone";
 import useAssemblyData from "../hooks/useAssemblyData";
+import { ApiWait } from "../components/ApiWait";
 
 const View = () => {
   const [id, setId] = React.useState<string>("");
@@ -31,7 +32,7 @@ const View = () => {
     <div>
       {loading && (
         <div>
-          <ProgressBar />
+          <ApiWait />
         </div>
       )}
       {data && <LoadingDone />}
