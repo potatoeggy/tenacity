@@ -1,1 +1,8 @@
-.container1 { display:flex; height:50rem; width:auto; overflow:hidden; align-content:center; z-index:1000; align-items:center; }
+.container1 {
+  display: flex;
+  width: auto;
+  overflow: hidden;
+  align-content: center;
+  z-index: 1000;
+  align-items: center;
+}
